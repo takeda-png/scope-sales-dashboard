@@ -1,0 +1,3049 @@
+📊 pending: 2781件
+🚀 今回の送信: 600件 / 3並列
+
+
+==================================================
+🌐 https://corp.synergy-marketing.co.jp/
+
+==================================================
+🌐 https://rabbynet.zennichi.or.jp/agency/00070170
+
+==================================================
+🌐 https://espo1484.co.jp
+  📋 フォームページ（自動検出）: https://rabbynet.zennichi.or.jp/inquiry/agency/?kaiin_no=00070170
+  📋 フォームページ（自動検出）: https://espo1484.co.jp/info
+  ✅ 入力完了: name, phone, email, message, inquiry_type, privacy
+  📤 送信完了
+
+==================================================
+🌐 https://www.sowel.or.jp/roffic/up_images/0bc4b6a388dc9e205b2064d12a2d455a.pdf
+  ❌ エラー: page.goto: Download is starting
+Call log:
+[2m  - navigating to "https://www.sow
+
+==================================================
+🌐 https://shiraishi-kensetsu.co.jp
+  📋 フォームページ（既存）: https://corp.synergy-marketing.co.jp/contact/
+  🔗 ハブページ検出 → フォームリンクへ: https://form.synergy-marketing.co.jp/webapp/form/18784_mubb_8/index.do
+  📋 フォームページ（自動検出）: tel:0277-78-2819
+  ❌ エラー: page.goto: net::ERR_ABORTED at tel:0277-78-2819
+Call log:
+[2m  - navigating to 
+
+==================================================
+🌐 https://www.meisterhouse.co.jp
+  📋 フォームページ（自動検出）: https://www.meisterhouse.co.jp/contactus/index.htm
+  ✅ 入力完了: name, company, phone, email, message, select, inquiry_type, privacy
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+  📨 確認画面から最終送信: 送信
+
+==================================================
+🌐 https://tokijiji.sakura.ne.jp/hikaku/gunma-gyousya/312
+  📤 送信完了
+
+==================================================
+🌐 https://www.itamiarts.co.jp/
+  📋 フォームページ（自動検出）: https://tokijiji.sakura.ne.jp/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b/
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.logoshome.jp
+  📋 フォームページ（自動検出）: https://www.logoshome.jp/contact/
+  ✅ 入力完了: email, message
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://takasaki.bess.jp
+  📋 フォームページ（自動検出）: https://takasaki.bess.jp/contact/
+  🔗 ハブページ検出 → フォームリンクへ: https://www.bess.jp/bessuser_inquiry/
+  ✅ 入力完了: name, furigana, phone, email, message, select
+  📤 送信完了
+
+==================================================
+🌐 http://moriya-lab.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://yamadakoumuten1.com
+  📋 フォームページ（自動検出）: https://yamadakoumuten1.com/contact
+  ✅ 入力完了: name, furigana, phone, email, message, privacy
+  📨 確認画面から最終送信: 送信する
+  ✅ 入力完了: name, phone, email, message, select
+  📤 送信完了
+  📤 送信完了
+
+==================================================
+🌐 https://www.tsuchiyahome.jp
+
+==================================================
+🌐 https://es-home.co.jp
+  📋 フォームページ（自動検出）: https://www.tsuchiyahome.jp/contact/
+  📋 フォームページ（自動検出）: https://es-home.co.jp/contact/
+  ✅ 入力完了: name, email, message, select
+  📨 確認画面から最終送信: 送信
+  ✅ 入力完了: name, phone, email, message, privacy, privacy_custom
+  📤 送信完了
+  📤 送信完了
+
+==================================================
+🌐 https://akagihome.com
+
+==================================================
+🌐 https://www.johnsonhome.co.jp
+  📋 フォームページ（自動検出）: https://akagihome.com/contact
+  📋 フォームページ（自動検出）: https://www.johnsonhome.co.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, select
+  📤 送信完了
+  ✅ 入力完了: name, email, message, select, privacy
+
+==================================================
+🌐 https://jinde.co.jp
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://uchiumi.jp
+  ✅ 入力完了: name, furigana, phone, email, email_confirm, message, privacy, privacy_custom
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.cosmokensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ooi-kensetsu-sakata.co.jp
+  📋 フォームページ（自動検出）: https://www.cosmokensetsu.co.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, inquiry_type, privacy, privacy_custom
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+  📋 フォームページ（自動検出）: mailto:info@ooi-kensetsu-sakata.co.jp
+  ❌ エラー: page.goto: net::ERR_ABORTED at mailto:info@ooi-kensetsu-sakata.co.jp
+Call log:
+
+
+==================================================
+🌐 https://oizumi-k.co.jp
+
+==================================================
+🌐 https://www.1480.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ogata-home.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.takkencp.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://partnershop.takara-standard.co.jp/shop/3555
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.fujiki-kensetsu.co.jp
+  📤 送信完了
+
+==================================================
+🌐 https://www.gunmanoie.jp/busy.php
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kaneko-kenko.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.goodfield.ne.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.dyp.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kyowahouse-iide.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.iwakura-home.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.lala.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.sakurai-k.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://iezoom.jp/company/company-2793.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://early-home.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://rehome-navi.com/shops/9443
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://jukenhouse.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://urano-kensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.e-sumai21.net
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.yamashitahome.co.jp/contact
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kosodate-sekkei.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.takamoku.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kj-ie.co.jp/author/20240100050
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.sugiuchi-kennsetsu.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hayama-sogo.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.iekeikaku.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://sumai-no-gen.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://bi-nakagawa.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.lixil-reformshop.jp/shop/SP00001048
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.imap.ne.jp/place_detail/page/1038/0
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://yutori-sho.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://homesouken.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://naka-home.d.dooo.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kenhokusya.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.atelierzero.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://koei-h.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://hatsugai.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://home-kikaku.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.sansou-k.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://hatsugai.co.jp/
+Call log:
+[
+
+==================================================
+🌐 https://hossyhouse.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://sudo-cnst.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://j-creative.co.jp
+  ❌ エラー: page.goto: Navigation to "https://hossyhouse.com/" is interrupted by another nav
+
+==================================================
+🌐 https://sumai.panasonic.jp/sumai-partners/shop/popup_print.php
+  ❌ エラー: page.goto: Navigation to "https://j-creative.co.jp/" is interrupted by another n
+
+==================================================
+🌐 https://www.marushichikensetsu.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://sumai.panasonic.jp/sumai-partners
+
+==================================================
+🌐 https://yokoken3190.jimdoweb.com
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://yokoken3190.jimdoweb.com/
+Ca
+
+==================================================
+🌐 https://www.alphaplan.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.alphaplan.co.jp/
+Call lo
+
+==================================================
+🌐 https://ishiyama-f.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://ishiyama-f.jp/
+Call log:
+[2
+
+==================================================
+🌐 https://www.satohsangyo.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.satohsangyo.co.jp/
+Call 
+
+==================================================
+🌐 https://www.first-juhken.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.first-juhken.co.jp/
+Call
+
+==================================================
+🌐 https://ie-labo.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://ie-labo.co.jp/
+Call log:
+[2
+
+==================================================
+🌐 https://ki-group.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://ki-group.co.jp/
+Call log:
+[
+
+==================================================
+🌐 http://www.tanaka-cons.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at http://www.tanaka-cons.co.jp/
+Call l
+
+==================================================
+🌐 https://www.reform-miyamoto.jp/reform
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.reform-miyamoto.jp/refor
+
+==================================================
+🌐 https://chuojutaku.polus.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://chuojutaku.polus.co.jp/
+Call
+
+==================================================
+🌐 https://saitama-kyosai.or.jp/jutaku
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://saitama-kyosai.or.jp/jutaku
+
+
+==================================================
+🌐 https://www.kusano-koumu.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.marushichikensetsu.co.jp
+
+==================================================
+🌐 https://www.ishiikomuten.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.kusano-koumu.co.jp/
+Call
+
+==================================================
+🌐 https://www.polus-home.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.ishiikomuten.jp/
+Call lo
+
+==================================================
+🌐 https://kameokakoumuten.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.polus-home.jp/
+Call log:
+
+==================================================
+🌐 https://www.asaka-mytown.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://kameokakoumuten.jp/
+Call log
+
+==================================================
+🌐 https://nakazatok.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.asaka-mytown.co.jp/
+Call
+
+==================================================
+🌐 https://www.sanko-soflan.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://nakazatok.jp/
+Call log:
+[2m
+
+==================================================
+🌐 https://www.f-seikyo.or.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.sanko-soflan.co.jp/
+Call
+
+==================================================
+🌐 https://www.ai-koumuten.co.jp/exhibition/shin-tokorozawa
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.f-seikyo.or.jp/
+Call log
+
+==================================================
+🌐 https://kando-fukushima.jp/companies/3536
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.ai-koumuten.co.jp/exhibi
+
+==================================================
+🌐 https://yamagishilife.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://kando-fukushima.jp/companies
+
+==================================================
+🌐 https://www.biyori.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://yamagishilife.co.jp/
+Call lo
+
+==================================================
+🌐 https://fujishima-kensetsu.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.biyori.co.jp/
+Call log:
+
+
+==================================================
+🌐 https://jkrealtime.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://fujishima-kensetsu.co.jp/
+Ca
+
+==================================================
+🌐 https://www.ss-j.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://jkrealtime.co.jp/
+Call log:
+
+
+==================================================
+🌐 https://re-neue.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.ss-j.co.jp/
+Call log:
+[
+
+==================================================
+🌐 https://rabbynet.zennichi.or.jp/agency/15503512
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://re-neue.co.jp/
+Call log:
+[2
+
+==================================================
+🌐 https://www.first-home.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://rabbynet.zennichi.or.jp/agen
+
+==================================================
+🌐 https://ouchilabo.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.first-home.jp/
+Call log:
+
+==================================================
+🌐 https://fukushima.bess.jp/company
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://ouchilabo.co.jp/
+Call log:
+
+
+==================================================
+🌐 https://www.shoeigro.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://fukushima.bess.jp/company
+Ca
+
+==================================================
+🌐 https://speaks.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.shoeigro.co.jp/
+Call log
+
+==================================================
+🌐 https://tanaka-koumuten.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://speaks.co.jp/
+Call log:
+[2m
+
+==================================================
+🌐 https://aizuaiwa.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://tanaka-koumuten.co.jp/
+Call 
+
+==================================================
+🌐 https://www.cosmo-home.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://aizuaiwa.jp/
+Call log:
+[2m 
+
+==================================================
+🌐 https://iiie-oohara.com
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.cosmo-home.co.jp/
+Call l
+
+==================================================
+🌐 https://www.takuken.or.jp/akiya/detail/207.html
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://iiie-oohara.com/
+Call log:
+
+
+==================================================
+🌐 https://this-1.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.takuken.or.jp/akiya/deta
+
+==================================================
+🌐 https://beststage.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://this-1.jp/
+Call log:
+[2m  -
+
+==================================================
+🌐 https://www.k-daimaru.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://beststage.co.jp/
+Call log:
+
+
+==================================================
+🌐 https://dh-f.jp/furukawa
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.k-daimaru.co.jp/
+Call lo
+
+==================================================
+🌐 http://asp-mado.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://dh-f.jp/furukawa
+Call log:
+
+
+==================================================
+🌐 https://www.kuros.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at http://asp-mado.co.jp/
+Call log:
+[2
+
+==================================================
+🌐 https://www.oba21.com
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.kuros.co.jp/
+Call log:
+
+
+==================================================
+🌐 https://www.smaist.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.oba21.com/
+Call log:
+[2
+
+==================================================
+🌐 https://umexhome.com
+  📋 フォームページ（自動検出）: https://sudo-cnst.jp/contact
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.smaist.jp/
+Call log:
+[2
+
+==================================================
+🌐 https://www.seibu-k.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://sudo-cnst.jp/contact
+Call lo
+
+==================================================
+🌐 https://www.skyhouse.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://umexhome.com/
+Call log:
+[2m
+
+==================================================
+🌐 https://kunio-kenchiku.com
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.seibu-k.co.jp/
+Call log:
+
+==================================================
+🌐 https://www.loveing-kenchiku.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://kunio-kenchiku.com/
+Call log
+
+==================================================
+🌐 https://shiraiwa-jp.com
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.loveing-kenchiku.jp/
+Cal
+
+==================================================
+🌐 https://www.bellhaus.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://shiraiwa-jp.com/
+Call log:
+
+
+==================================================
+🌐 https://www.yumita.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.bellhaus.co.jp/
+Call log
+
+==================================================
+🌐 https://kamiken.info
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.yumita.co.jp/
+Call log:
+
+
+==================================================
+🌐 https://www.doa.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://kamiken.info/
+Call log:
+[2m
+
+==================================================
+🌐 https://www.takahashi-kanri.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.doa.co.jp/
+Call log:
+[2
+
+==================================================
+🌐 https://hitokihome.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.takahashi-kanri.co.jp/
+C
+
+==================================================
+🌐 https://www.smile-ie.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://hitokihome.co.jp/
+Call log:
+
+
+==================================================
+🌐 https://kankyokk.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://kankyokk.co.jp/
+Call log:
+[
+
+==================================================
+🌐 https://j-hayama.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.smile-ie.co.jp/
+Call log
+
+==================================================
+🌐 https://www.blbuild.co.jp/blhome
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://j-hayama.jp/
+Call log:
+[2m 
+
+==================================================
+🌐 https://three-trust.com
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.blbuild.co.jp/blhome
+Cal
+
+==================================================
+🌐 https://www.lizon.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://three-trust.com/
+Call log:
+
+
+==================================================
+🌐 https://izumida.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.lizon.co.jp/
+Call log:
+
+
+==================================================
+🌐 https://www.tobu-nh.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://izumida.co.jp/
+Call log:
+[2
+
+==================================================
+🌐 https://endou-koumuten.com
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.tobu-nh.co.jp/
+Call log:
+
+==================================================
+🌐 https://www.idatechnos.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://endou-koumuten.com/
+Call log
+
+==================================================
+🌐 https://oji-k.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.idatechnos.co.jp/
+Call l
+
+==================================================
+🌐 https://ootuka-kensetu.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://oji-k.co.jp/
+Call log:
+[2m 
+
+==================================================
+🌐 https://www.kanken2023.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://ootuka-kensetu.co.jp/
+Call l
+
+==================================================
+🌐 https://www.kobaken.info
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.kanken2023.jp/
+Call log:
+
+==================================================
+🌐 https://kanno-kenchiku.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.kobaken.info/
+Call log:
+
+
+==================================================
+🌐 https://www.andou-k.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://kanno-kenchiku.jp/
+Call log:
+
+==================================================
+🌐 https://www.kikuta-koumuten.com
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.andou-k.co.jp/
+Call log:
+
+==================================================
+🌐 https://saigasekkei.com
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.kikuta-koumuten.com/
+Cal
+
+==================================================
+🌐 https://kusano-c.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://saigasekkei.com/
+Call log:
+
+
+==================================================
+🌐 https://hapisumu.jp/company/63678
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://kusano-c.co.jp/
+Call log:
+[
+
+==================================================
+🌐 https://www.crassone.jp/constructors/51821
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.crassone.jp/constructors
+
+==================================================
+🌐 https://www.koyatu.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://hapisumu.jp/company/63678
+Ca
+
+==================================================
+🌐 https://www.mikuni-home.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.koyatu.co.jp/
+Call log:
+
+
+==================================================
+🌐 https://shike-k.com
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.mikuni-home.co.jp/
+Call 
+
+==================================================
+🌐 https://www.towa-kensetsu.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://shike-k.com/
+Call log:
+[2m 
+
+==================================================
+🌐 https://www.shinwa-21.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.towa-kensetsu.jp/
+Call l
+
+==================================================
+🌐 https://www.kurosawakoumuten.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.shinwa-21.co.jp/
+Call lo
+
+==================================================
+🌐 https://suzufune.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.kurosawakoumuten.co.jp/
+
+
+==================================================
+🌐 https://www.taiheihome.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://suzufune.jp/
+Call log:
+[2m 
+
+==================================================
+🌐 https://serenohome.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://serenohome.jp/
+Call log:
+[2
+
+==================================================
+🌐 https://daiju-re.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.taiheihome.co.jp/
+Call l
+
+==================================================
+🌐 https://daiwahousing.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://daiju-re.co.jp/
+Call log:
+[
+
+==================================================
+🌐 https://www.t-kensou.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://daiwahousing.co.jp/
+Call log
+
+==================================================
+🌐 https://www.mitsuikaihatsu.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.t-kensou.jp/
+Call log:
+
+
+==================================================
+🌐 https://tamurasangyo.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.mitsuikaihatsu.co.jp/
+Ca
+
+==================================================
+🌐 https://www.koncom.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://tamurasangyo.co.jp/
+Call log
+
+==================================================
+🌐 http://mikoto-kensho.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.koncom.co.jp/
+Call log:
+
+
+==================================================
+🌐 https://www.jc-group.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at http://mikoto-kensho.jp/
+Call log:
+
+
+==================================================
+🌐 https://www.omomo.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.jc-group.jp/
+Call log:
+
+
+==================================================
+🌐 https://ojimaltd.com
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.omomo.co.jp/
+Call log:
+
+
+==================================================
+🌐 http://kk-kensei.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://ojimaltd.com/
+Call log:
+[2m
+
+==================================================
+🌐 https://www.katsumi-f.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at http://kk-kensei.jp/
+Call log:
+[2m 
+
+==================================================
+🌐 https://koken-kk.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.katsumi-f.co.jp/
+Call lo
+
+==================================================
+🌐 https://blue-ie.co.jp/index.html
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://koken-kk.co.jp/
+Call log:
+[
+
+==================================================
+🌐 https://comtecs.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://blue-ie.co.jp/index.html
+Cal
+
+==================================================
+🌐 https://www.polusgrandtec.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://comtecs.jp/
+Call log:
+[2m  
+
+==================================================
+🌐 https://shojicon.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.polusgrandtec.jp/
+Call l
+
+==================================================
+🌐 https://www.sunki-home.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://shojicon.co.jp/
+Call log:
+[
+
+==================================================
+🌐 https://www.noblehome.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.sunki-home.co.jp/
+Call l
+
+==================================================
+🌐 https://www.masuda-inc.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.noblehome.co.jp/
+Call lo
+
+==================================================
+🌐 https://www.nichiei-syoji.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.masuda-inc.co.jp/
+Call l
+
+==================================================
+🌐 https://lexter.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.nichiei-syoji.jp/
+Call l
+
+==================================================
+🌐 https://www.grandy.co.jp/company/group/ibaraki-grandy
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://lexter.jp/
+Call log:
+[2m  -
+
+==================================================
+🌐 https://www.houses.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.grandy.co.jp/company/gro
+
+==================================================
+🌐 https://ninomiya-e.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.houses.jp/
+Call log:
+[2
+
+==================================================
+🌐 https://www.daiwakensetu.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://ninomiya-e.co.jp/
+Call log:
+
+
+==================================================
+🌐 http://www.osukerhome.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at http://www.osukerhome.co.jp/
+Call lo
+
+==================================================
+🌐 https://fuji-solar.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.daiwakensetu.co.jp/
+Call
+
+==================================================
+🌐 http://www.alog.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://fuji-solar.co.jp/
+Call log:
+
+
+==================================================
+🌐 https://www.someya.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at http://www.alog.jp/
+Call log:
+[2m  
+
+==================================================
+🌐 https://fujiken-k.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.someya.co.jp/
+Call log:
+
+
+==================================================
+🌐 https://ishitsuka1.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.satto310.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.ys-estate.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at http://www.ys-estate.co.jp/
+Call log
+
+==================================================
+🌐 https://www.chiyoda-h.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.archi21.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.cic-ct.co.jp/column/career-column/career-column-income20
+  📋 フォームページ（自動検出）: https://ishitsuka1.jp/contact/
+  📋 フォームページ（自動検出）: https://faq.cic-ct.co.jp/
+  📋 フォームページ（自動検出）: https://www.archi21.co.jp/contact.html
+  ✅ 入力完了: name, email, message, inquiry_type, privacy
+  🔗 ハブページ検出 → フォームリンクへ: https://www.cic-ct.co.jp/inquiry/contact/
+  📨 確認画面から最終送信: 送信
+  🔗 ハブページ検出 → フォームリンクへ: https://www.archi21.co.jp/site/contact/inquiry/
+  📤 送信完了
+
+==================================================
+🌐 https://wood-u.co.jp
+  ✅ 入力完了: name, furigana, company, phone, email, message, select, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信
+  📋 フォームページ（自動検出）: https://wood-u.co.jp/contact/
+  📤 送信完了
+
+==================================================
+🌐 https://maida.jp
+  ✅ 入力完了: name, furigana, company, department, phone, email, message, select, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://www.oonuki.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kenseihome.co.jp
+  📋 フォームページ（自動検出）: https://kenseihome.co.jp/contact/
+  📋 フォームページ（自動検出）: https://www.oonuki.co.jp/contact
+  ✅ 入力完了: name, furigana, phone, email, message, select, inquiry_type, privacy, privacy_custom
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy, privacy_custom
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://www.toyohouse.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kent-inc.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ikesugi.co.jp
+  📤 送信完了
+
+==================================================
+🌐 https://www.naka-h.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.sato-home.jp
+  ✅ 入力完了: name, company, phone, email, email_confirm, message, select
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://masumi-kensetsu.jp
+
+==================================================
+🌐 https://shobi-kensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://mirai-home.ne.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://nust.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://y-asahi.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kyoudo-arc.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.shiba-mokuzai.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://irikurakoumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://avele.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.tamura-komuten.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://uchida-sangyou.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://housingkobayashi.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.eoshome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ncn-se.co.jp/se/builderslist/detail/20140724145234
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kohya.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.koryo-j.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ksjg.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.fas-21.jp/fc/company
+  📋 フォームページ（自動検出）: https://www.koryo-j.co.jp/contact/
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.good-home-saitama.co.jp
+  🔗 ハブページ検出 → フォームリンクへ: https://www.koryo-j.co.jp/contact/inquiry
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://beus.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://seibu-sekkei.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://sapporo.bess.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://housewell.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.hoshiya.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.whiteroom-1.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hokkaisoken.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.e-house.co.jp/monma-koumuten
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.hokushin-k.jp
+  📋 フォームページ（自動検出）: https://www.e-house.co.jp/monma-koumuten/contact/
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://usamikensetu.co.jp
+  ✅ 入力完了: name, phone, email, message
+  📤 送信完了
+
+==================================================
+🌐 https://www.toukou-0707.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.est-h.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kouei-bld.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://okamoto-kensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://yokota-j.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kanna-design.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.meiho-net.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://greethome.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.lloydshome.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kokudohome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://ohkumakoumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kotobuki-bk.jeez.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.matsunaga-housing.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.sumairu-labo.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.uchiyama-mokuzai.co.jp
+  ✅ 入力完了: name, furigana, company, phone, email, message, select, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://tanakakoumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://e-senmon.jp/outline
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ak8.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.d-shinkou.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.masukenhome.com
+  📋 フォームページ（自動検出）: https://ak8.co.jp/contact/
+  📋 フォームページ（自動検出）: https://www.d-shinkou.co.jp/contact/
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://asitis.ibaraki.jp
+  ✅ 入力完了: name, phone, email, message, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://ssda.or.jp/service/0406
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://nix-3c.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.athome-web.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.toyota-koumuten.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://bern-t.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://shimaho-smarthome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.nikkenkensetsu.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.sekiho.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://living-work.co.jp
+  📋 フォームページ（自動検出）: https://www.nikkenkensetsu.co.jp/contact/
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.mken.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.woody-craft.co.jp
+  ✅ 入力完了: email, message, inquiry_type, privacy
+  📤 送信完了
+
+==================================================
+🌐 https://www.partner-j.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://shinei-jk.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.hophouse.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hirosawakomuten.reform-c.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.fujishiro-m.com
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://hirosawakomuten.reform-c.jp/
+Call
+
+==================================================
+🌐 https://freesia-h.co.jp
+  📋 フォームページ（自動検出）: https://www.hophouse.co.jp/request/
+  ❌ エラー: page.goto: Navigation to "https://freesia-h.co.jp/" is interrupted by another na
+
+==================================================
+🌐 https://www.page1.co.jp
+  📋 フォームページ（自動検出）: https://www.fujishiro-m.com/contact
+  ✅ 入力完了: name, furigana, phone, email, message, select
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.matsunaga.gr.jp
+  📤 送信完了
+
+==================================================
+🌐 https://maida.jp
+  📋 フォームページ（自動検出）: https://www.matsunaga.gr.jp/contact/
+  📋 フォームページ（自動検出）: https://maida.jp/contact_document/index.html
+  ✅ 入力完了: name, phone, email, message
+  📤 送信完了
+
+==================================================
+🌐 http://www.yanagida-house.co.jp
+  📋 フォームページ（自動検出）: http://www.yanagida-house.co.jp/contact
+  ✅ 入力完了: message, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://www.ai-koumuten.co.jp/exhibition/turugashima
+  ✅ 入力完了: name, furigana, phone, email, message, select, inquiry_type, privacy
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://www.kk35.jp
+  ✅ 入力完了: name, furigana, phone, email, message, privacy, privacy_custom
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ex-stage.jp
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+  📋 フォームページ（自動検出）: https://www.kk35.jp/contact/?type=inquiry
+  📋 フォームページ（自動検出）: https://www.ex-stage.jp/inquiry/
+
+==================================================
+🌐 https://ayaplus.jp
+  📋 フォームページ（自動検出）: https://ayaplus.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, select, inquiry_type, privacy, privacy_custom
+  ⚙️  disabled ボタン検出 → カスタム要素をクリックして再試行
+  📤 送信完了
+  ✅ 入力完了: name, furigana, phone, email, message, privacy, privacy_custom
+
+==================================================
+🌐 http://www.g-edoya.co.jp
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://ecoshome.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://otsuka-ken.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.behouse.jp/behouse/index.shtml
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ogawa-k.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://primehome-estate.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.okuyama-co.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.maruwakensetsu.co.jp
+  📋 フォームページ（自動検出）: https://www.okuyama-co.co.jp/cgi-bin/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy_custom
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://www.sarfic.or.jp/wordpress/wp-content/uploads/2025/05/tyousa2025.06-jyutaku.pdf
+  📋 フォームページ（自動検出）: https://www.maruwakensetsu.co.jp/contact/
+  ❌ エラー: page.goto: Download is starting
+Call log:
+[2m  - navigating to "https://www.sar
+
+==================================================
+🌐 https://www.justhome1976.jp
+  ✅ 入力完了: name, furigana, phone, email, message, select, inquiry_type, privacy, privacy_custom
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.ii-ie2.net
+  📤 送信完了
+
+==================================================
+🌐 https://www.plushaus.co.jp
+  📋 フォームページ（自動検出）: https://www.plushaus.co.jp/contact/
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.sumisei.co.jp
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://value-home.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.r-plus-h.com/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://tohto-haime.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.shinokawahome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ikeko-group.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.toyo-home.co.jp/about.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.dotohouse.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://satokoumuten-ibaraki.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.nagasawazaimoku.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kkooi.co.jp
+  📋 フォームページ（自動検出）: https://satokoumuten-ibaraki.com/contact
+  📋 フォームページ（自動検出）: https://www.nagasawazaimoku.co.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message
+  📨 確認画面から最終送信: 送信する
+  📋 フォームページ（既存）: https://kkooi.co.jp/contact/
+  📤 送信完了
+
+==================================================
+🌐 http://www.fujiken1.com
+  ✅ 入力完了: name, furigana, company, phone, email, email_confirm, message, privacy
+  📨 確認画面から最終送信: 送信
+  📋 フォームページ（自動検出）: http://www.fujiken1.com/contact/
+  📤 送信完了
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy
+
+==================================================
+🌐 https://www.zo3.co.jp
+  📨 確認画面から最終送信: 送信する
+  ✅ 入力完了: name, furigana, company, department, phone, email, message, select
+  📤 送信完了
+  📤 送信完了
+
+==================================================
+🌐 https://www.kawakamigiken.jp
+
+==================================================
+🌐 https://www.miyanaka.co.jp
+  📋 フォームページ（自動検出）: mailto:info@miyanaka.co.jp
+  ❌ エラー: page.goto: net::ERR_ABORTED at mailto:info@miyanaka.co.jp
+Call log:
+[2m  - navi
+
+==================================================
+🌐 https://www.miyanaka-jisho.co.jp
+  📋 フォームページ（自動検出）: https://www.zo3.co.jp/contact.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://school.stephouse.jp/partnership/p39737
+  ✅ 入力完了: name, furigana, company, department, phone, email, email_confirm, message, select
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.morishima-kk.jp
+  📤 送信完了
+
+==================================================
+🌐 https://www.highspace.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://luxe-home.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.youing-co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hasumi-koumuten.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.assisthome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.arai-koumuten.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://viehouse.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.shintaku.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ishijima.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.hisinuma.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://suzuki-koumuten.jp/pages/32
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ishin-shimodate.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.e-house.co.jp/fukazawa-mokuzai/com.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://i-llhome.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.osono.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.yagi-con.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.crest-home.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kawano-kk.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kswg.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://saijosangyo.co.jp
+  📋 フォームページ（自動検出）: https://kawano-kk.co.jp/contents/contact.html
+  📋 フォームページ（自動検出）: https://kswg.jp/contact/
+  ✅ 入力完了: name, furigana, company, department, phone, email, message, privacy
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.takashima-house.co.jp
+  📤 送信完了
+
+==================================================
+🌐 https://www.kento-corp.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hashimotokensetu.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.sjcoop.or.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.openwork.jp/company.php
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.shinwaconst-saitama.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://takeguchigumi.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.chiyomoto.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.lime-h.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://marukokikaku.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://fujiwa.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://wh-engineering.jp/misawaya-k
+  ✅ 入力完了: name, furigana, company, phone, email, message, privacy
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://suginoko.co.jp
+  📋 フォームページ（自動検出）: https://fujiwa.jp/contact/
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 http://www.miyakawa-js.co.jp
+  ✅ 入力完了: name, phone, email, message, inquiry_type, privacy
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.stage-p.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://yokoyamakoumuten.com
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 http://www.hiranaka.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.noguchi-syouji.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://tanzawa-k.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://home-tech.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.lixil-reformshop.jp/shop/SC00081001
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.hirosima.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.misawa-koumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://furuyahome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.abiru-const.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://konkensetu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.heisei-bussan.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.frescohome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.tgumi.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://maruhey.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.grandy.co.jp/company/group/chiba-grandy
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://imai-koumuten.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ym-g.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.eyens-home.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.puerda.jp
+  📋 フォームページ（自動検出）: https://www.ym-g.co.jp/contact/
+  📋 フォームページ（自動検出）: https://www.puerda.jp/contact
+  ✅ 入力完了: name, phone, email, message, select, inquiry_type, privacy, privacy_custom
+  📤 送信完了
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://koumuten.onewalk.co.jp
+  ✅ 入力完了: name, furigana, phone, email, message, select, inquiry_type, privacy
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://k-yoshikawa.jp
+
+==================================================
+🌐 https://www.horikenlabo.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.leocorp.co.jp/company/information
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://sinoya.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ylh.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://sakumakoumuten.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://shiken-c.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.uchiike-home.co.jp
+  📋 フォームページ（自動検出）: https://sakumakoumuten.jp/contact/
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.sekine-cs.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://woodlife2x4.co.jp
+  ✅ 入力完了: name, furigana, phone, email, email_confirm, message, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://www.i-unit.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kbr.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.sdc-project.jp/hokkaido/details/2072
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ai-koumuten.co.jp/exhibition/makuhari2
+  📋 フォームページ（自動検出）: https://www.sdc-project.jp/hokkaido/contactus/
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.mugikura.co.jp
+  ✅ 入力完了: name, furigana, company, phone, email, message
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://archicept.jp
+
+==================================================
+🌐 http://www.mytokachi.jp/ozawakensetsu
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.house21.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://archicept.jp/
+Call log:
+[2m  - n
+
+==================================================
+🌐 https://www.ishii-kensetsu-k.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.ishii-kensetsu-k.co.jp/" is interrupted by
+
+==================================================
+🌐 https://www.esterna.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.esterna.co.jp/" is interrupted by another 
+
+==================================================
+🌐 https://www.ajoyh.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://kimura-c.co.jp/overview
+  ❌ エラー: page.goto: Navigation to "https://www.ajoyh.jp/" is interrupted by another navig
+
+==================================================
+🌐 http://www.misonokk.jp
+  ❌ エラー: page.goto: Navigation to "http://www.misonokk.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://visio-u.co.jp
+  ❌ エラー: page.goto: Navigation to "https://visio-u.co.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://www.ogawa-bco.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.ogawa-bco.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://souken-j.co.jp
+  ❌ エラー: page.goto: Navigation to "https://souken-j.co.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://www.kamatori.co.jp/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.tooken-k.co.jp
+  📋 フォームページ（自動検出）: https://kimura-c.co.jp/contact/
+  ❌ エラー: page.goto: Navigation to "https://www.kamatori.co.jp/company" is interrupted by 
+
+==================================================
+🌐 https://kouwa-r.co.jp
+  ❌ エラー: page.goto: Navigation to "https://kouwa-r.co.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://www.nami-kawa.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.nami-kawa.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://www.n-home.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.n-home.co.jp/" is interrupted by another n
+
+==================================================
+🌐 https://tousou-ps.com
+  📋 フォームページ（自動検出）: http://www.tooken-k.co.jp/contact/
+  ❌ エラー: page.goto: Navigation to "https://tousou-ps.com/" is interrupted by another navi
+
+==================================================
+🌐 https://www.okamura-home.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.okamura-home.co.jp/" is interrupted by ano
+
+==================================================
+🌐 http://www.asanokoumuten.jp/asano
+  ❌ エラー: page.goto: Navigation to "http://www.asanokoumuten.jp/asano" is interrupted by a
+
+==================================================
+🌐 https://www.chiba-takken.or.jp/shop/1-3559-012003559012
+  ❌ エラー: page.goto: Navigation to "https://www.chiba-takken.or.jp/shop/1-3559-01200355901
+
+==================================================
+🌐 https://www.chiba-chiikishigoto.jp/corpinfo/24855
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+  ✅ 入力完了: name, furigana, phone, email, message
+
+==================================================
+🌐 https://next-haus.jp
+  ❌ エラー: page.goto: Navigation to "https://www.chiba-chiikishigoto.jp/corpinfo/24855" is 
+
+==================================================
+🌐 https://www.findestate.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.findestate.co.jp/" is interrupted by anoth
+
+==================================================
+🌐 https://www.chiba-takken.or.jp/shop/1-13978-012013978000
+  ❌ エラー: page.goto: Navigation to "https://www.chiba-takken.or.jp/shop/1-13978-0120139780
+
+==================================================
+🌐 https://www.clenoie.com
+  📋 フォームページ（自動検出）: https://next-haus.jp/#mail
+  ❌ エラー: page.goto: Navigation to "https://www.clenoie.com/" is interrupted by another na
+
+==================================================
+🌐 https://www.shuken-estate.jp
+  📨 確認画面から最終送信: 送信する
+  ❌ エラー: page.goto: Navigation to "https://www.shuken-estate.jp/" is interrupted by anoth
+
+==================================================
+🌐 http://kouya.co.jp
+  ❌ エラー: page.goto: Navigation to "http://kouya.co.jp/" is interrupted by another navigat
+
+==================================================
+🌐 https://www.lli.co.jp
+  📤 送信完了
+  ❌ エラー: page.goto: Navigation to "https://www.lli.co.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://www.chiba-takken.or.jp/shop/1-4511-012004511000
+  ❌ エラー: page.goto: Navigation to "https://www.chiba-takken.or.jp/shop/1-4511-01200451100
+
+==================================================
+🌐 https://www.kamagatakk.jp
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+  ❌ エラー: page.goto: Navigation to "https://www.kamagatakk.jp/" is interrupted by another 
+
+==================================================
+🌐 https://www.fuji-sk.co.jp
+
+==================================================
+🌐 https://kei-ai.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.fuji-sk.co.jp/" is interrupted by another 
+
+==================================================
+🌐 https://www.c21godai.co.jp
+
+==================================================
+🌐 https://landforest.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.c21godai.co.jp/" is interrupted by another
+
+==================================================
+🌐 https://www.c21yamashita.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.c21yamashita.co.jp/" is interrupted by ano
+
+==================================================
+🌐 https://www.kestate.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.kestate.co.jp/" is interrupted by another 
+
+==================================================
+🌐 https://www.kudostyle.jp
+  ❌ エラー: page.goto: Navigation to "https://www.kudostyle.jp/" is interrupted by another n
+
+==================================================
+🌐 https://www.sin-yo.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.sin-yo.co.jp/" is interrupted by another n
+
+==================================================
+🌐 https://kikuchi-arc.jp
+  📋 フォームページ（自動検出）: https://landforest.co.jp/contact/
+  ❌ エラー: page.goto: Navigation to "https://kikuchi-arc.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://hakkenkan.co.jp
+  ❌ エラー: page.goto: Navigation to "https://hakkenkan.co.jp/" is interrupted by another na
+
+==================================================
+🌐 https://terakado-k.com
+  📋 フォームページ（自動検出）: https://kei-ai.co.jp/contact/
+  ❌ エラー: page.goto: Navigation to "https://terakado-k.com/" is interrupted by another nav
+
+==================================================
+🌐 https://www.nakano-komuten.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.nakano-komuten.co.jp/" is interrupted by a
+
+==================================================
+🌐 https://house-pro.co.jp
+  ❌ エラー: page.goto: Navigation to "https://house-pro.co.jp/" is interrupted by another na
+
+==================================================
+🌐 https://imayama.co.jp
+  ❌ エラー: page.goto: Navigation to "https://imayama.co.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://tanaka-koumuten.jp
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+  ❌ エラー: page.goto: Navigation to "https://tanaka-koumuten.jp/" is interrupted by another
+
+==================================================
+🌐 https://aj-lifedesign.jp
+  ❌ エラー: page.goto: Navigation to "https://aj-lifedesign.jp/" is interrupted by another n
+
+==================================================
+🌐 http://www.mochii.co.jp
+
+==================================================
+🌐 https://www.youkanya.com
+  ❌ エラー: page.goto: Navigation to "http://www.mochii.co.jp/" is interrupted by another na
+
+==================================================
+🌐 https://archistairs.jp
+  ✅ 入力完了: name, furigana, phone, email, message, inquiry_type, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+  ❌ エラー: page.goto: Navigation to "https://archistairs.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://jibunhouse.jp/store/associe
+
+==================================================
+🌐 https://s-koubou.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://artnive.com
+  ❌ エラー: page.goto: Navigation to "https://jibunhouse.jp/store/associe" is interrupted by
+  📋 フォームページ（自動検出）: https://artnive.com/visit.html
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.shintaku-h.jp
+  🔗 ハブページ検出 → フォームリンクへ: https://artnive.com/inquiry/entry.php
+  📋 フォームページ（自動検出）: https://www.shintaku-h.jp/#a_contact
+  ✅ 入力完了: name, phone, email, email_confirm, message
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://molink.jp/company/1076
+  📋 フォームページ（自動検出）: https://molink.jp/company/1076#promoteCompany
+  🔗 ハブページ検出 → フォームリンクへ: https://molink.jp/inquiry_molink/input
+  ✅ 入力完了: name, furigana, company, phone, email, message, privacy
+  ✅ 入力完了: name, furigana, phone, email, message, select, inquiry_type, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://kakunishi.co.jp
+  📤 送信完了
+
+==================================================
+🌐 http://tokai-k.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.ushioda.co.jp/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://tobex.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://technohome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.nakai-k.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ud2001.jp
+  📋 フォームページ（自動検出）: https://www.nakai-k.co.jp/inquiry/
+  ✅ 入力完了: name, phone, email, message
+  📋 フォームページ（自動検出）: tel:0120212186
+  ❌ エラー: page.goto: net::ERR_ABORTED at tel:0120212186
+Call log:
+[2m  - navigating to "t
+
+==================================================
+🌐 https://noguchikensetsu.jp
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 http://www.nikken-net.co.jp/profile/index.html
+  📋 フォームページ（自動検出）: https://noguchikensetsu.jp/contact/
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.hi-ko.co.jp
+  ✅ 入力完了: name, phone, email, message, select
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.hiraguchi.jp
+  📤 送信完了
+
+==================================================
+🌐 https://lien-co.jp
+  📋 フォームページ（自動検出）: http://www.hiraguchi.jp/contact.html
+  🔗 ハブページ検出 → フォームリンクへ: http://www.hiraguchi.jp/information.html
+  📋 フォームページ（自動検出）: https://lien-co.jp/contact/
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://www.hokodate-home.co.jp
+  📋 フォームページ（自動検出）: https://www.hokodate-home.co.jp/contact/
+  ✅ 入力完了: email, message, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://www.yamamotokengyo.co.jp
+  📋 フォームページ（自動検出）: https://www.yamamotokengyo.co.jp/contact/
+  ⚙️  disabled ボタン検出 → カスタム要素をクリックして再試行
+  ✅ 入力完了: name, furigana, phone, email, message, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://portal.renovation.or.jp/app/member/045-308-9155
+  📋 フォームページ（自動検出）: https://portal.renovation.or.jp/app/contact
+  ✅ 入力完了: name, company, phone, email, message, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://www.wish-home.co.jp/company
+  📋 フォームページ（自動検出）: https://www.wish-home.co.jp/contact/
+  ✅ 入力完了: name, phone, email, message, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://www.yorozukensetsu.co.jp
+  📋 フォームページ（自動検出）: https://www.yorozukensetsu.co.jp/contact
+  ✅ 入力完了: name, furigana, phone, email, email_confirm, select, privacy
+  📤 送信完了
+
+==================================================
+🌐 https://naitou-con.co.jp/company/about
+  📋 フォームページ（既存）: https://naitou-con.co.jp/contact/
+  ✅ 入力完了: name, furigana, company, phone, email, message, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://ie-selecthome.jp
+  📋 フォームページ（自動検出）: https://ie-selecthome.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy
+  ✅ 入力完了: furigana, phone, email, message, select, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://toti-design.co.jp
+  📋 フォームページ（自動検出）: https://toti-design.co.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+  📤 送信完了
+
+==================================================
+🌐 https://kk-ikeda.net
+
+==================================================
+🌐 https://fukushima-km.co.jp
+  📋 フォームページ（自動検出）: https://kk-ikeda.net/contact/entry.php
+  📋 フォームページ（自動検出）: https://fukushima-km.co.jp/contact/
+  ✅ 入力完了: name, phone, email, message, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信
+  ✅ 入力完了: name, phone, email, email_confirm, message, select, privacy_custom
+  📤 送信完了
+  📤 送信完了
+
+==================================================
+🌐 https://matsuurakensetsu.com
+
+==================================================
+🌐 https://r.goope.jp/sr-09-093861s0020
+  📋 フォームページ（自動検出）: https://matsuurakensetsu.com/contact
+  📋 フォームページ（自動検出）: https://r.goope.jp/sr-09-093861s0020/contact
+  ✅ 入力完了: message
+  📨 確認画面から最終送信: 送信する
+  ✅ 入力完了: phone, email, message
+  📤 送信完了
+  📨 確認画面から最終送信: 送信する
+
+==================================================
+🌐 https://tgnr.jp/company/heisei-housing
+  📤 送信完了
+
+==================================================
+🌐 https://www.misawa-koumuten.co.jp
+  📋 フォームページ（自動検出）: https://tgnr.jp/contact/
+  📋 フォームページ（自動検出）: https://www.misawa-koumuten.co.jp/pages/5/
+  ✅ 入力完了: name, furigana, phone, email, message, select
+  ✅ 入力完了: company, department, email, message, select, privacy
+  📤 送信完了
+  📤 送信完了
+
+==================================================
+🌐 https://www.ai-koumuten.co.jp/exhibition/sapporo-kita
+
+==================================================
+🌐 https://hirai-hd.co.jp/about/group/maruyama
+  📋 フォームページ（自動検出）: https://hirai-hd.co.jp/contact/
+  ✅ 入力完了: name, furigana, company, department, phone, email, message
+  📤 送信完了
+
+==================================================
+🌐 https://u-41.co.jp
+  📋 フォームページ（自動検出）: https://www.ai-koumuten.co.jp/contact/
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+  📋 フォームページ（自動検出）: https://u-41.co.jp/contact/
+
+==================================================
+🌐 https://kkooi.co.jp
+  📋 フォームページ（自動検出）: https://kkooi.co.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 http://www.hiranaka.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.fujiikohmuten.co.jp
+  📋 フォームページ（自動検出）: https://www.fujiikohmuten.co.jp/contact
+  ✅ 入力完了: name, furigana, phone, email, message, select
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://naitou-con.co.jp/company/about
+  📋 フォームページ（自動検出）: https://naitou-con.co.jp/contact/
+  ✅ 入力完了: name, furigana, company, phone, email, message, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://takamatsu-kogyo.jp
+  📋 フォームページ（自動検出）: https://takamatsu-kogyo.jp/company/contact/
+  ⚙️  disabled ボタン検出 → カスタム要素をクリックして再試行
+  ✅ 入力完了: name, company, phone, email, message, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://shinkoumuten.co.jp/about
+  📋 フォームページ（自動検出）: https://shinkoumuten.co.jp/contact
+  ✅ 入力完了: name, furigana, phone, email, message, select, inquiry_type, privacy
+  📤 送信完了
+
+==================================================
+🌐 https://www.grates.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://act-corporation.jp/company
+  📋 フォームページ（自動検出）: https://act-corporation.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, select, inquiry_type, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://shome.co.jp
+  📋 フォームページ（自動検出）: https://shome.co.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://noa-home.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://ikasu-soken.jp
+  📋 フォームページ（自動検出）: https://ikasu-soken.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, privacy
+  📤 送信完了
+
+==================================================
+🌐 https://al-sys.jp
+  📋 フォームページ（自動検出）: https://al-sys.jp/inquiry/
+  ✅ 入力完了: name, furigana, phone, email, message
+  📤 送信完了
+
+==================================================
+🌐 https://www.e-planning-ie.com
+  📋 フォームページ（自動検出）: https://www.e-planning-ie.com/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, select, inquiry_type, privacy
+  📤 送信完了
+
+==================================================
+🌐 https://ha-juken.co.jp
+  📋 フォームページ（自動検出）: https://ha-juken.co.jp/contact
+  ✅ 入力完了: 
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://taisei-sc.jp
+  📋 フォームページ（自動検出）: https://taisei-sc.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://takao-sekkei.jp
+  📋 フォームページ（自動検出）: https://takao-sekkei.jp/toi/
+  ⚙️  disabled ボタン検出 → カスタム要素をクリックして再試行
+  ✅ 入力完了: select, privacy
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://www.arec-f.jp
+  📋 フォームページ（自動検出）: https://www.arec-f.jp/contact.html
+  ✅ 入力完了: name, furigana, phone, email, message
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://daikou-casa.jp
+  📋 フォームページ（自動検出）: https://daikou-casa.jp/contact/
+  ✅ 入力完了: furigana, phone, email, message
+  📤 送信完了
+
+==================================================
+🌐 https://ecnanbu.jp
+  📋 フォームページ（自動検出）: https://ecnanbu.jp/contact/
+  ✅ 入力完了: name, phone, email, message, select, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信する
+  ✅ 入力完了: name, furigana, company, phone, email, message, inquiry_type, privacy
+  📤 送信完了
+  📨 確認画面から最終送信: 送信する
+
+==================================================
+🌐 https://masuken-t.jp
+  📤 送信完了
+
+==================================================
+🌐 https://aiwaihome.jp
+  📋 フォームページ（自動検出）: https://masuken-t.jp/consult
+  📋 フォームページ（自動検出）: https://aiwaihome.jp/contact/
+  ⚙️  disabled ボタン検出 → カスタム要素をクリックして再試行
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy, privacy_custom
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://www.abc-house.jp
+  📋 フォームページ（自動検出）: https://www.abc-house.jp/contact.html
+  ✅ 入力完了: name, furigana, phone, email, message, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://tachibana-kensetu.co.jp
+  📋 フォームページ（自動検出）: https://tachibana-kensetu.co.jp/contact
+  ✅ 入力完了: name, phone, email, message
+  📤 送信完了
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://kirara-airpass.jp
+
+==================================================
+🌐 https://www.replay-housing.com
+  📋 フォームページ（自動検出）: https://kirara-airpass.jp/contact/
+  📋 フォームページ（自動検出）: https://www.replay-housing.com/contact
+  ✅ 入力完了: name, furigana, phone, email, message, inquiry_type, privacy
+  📤 送信完了
+
+==================================================
+🌐 https://ishinhome.co.jp/shop/tochigi_kenhoku
+  ✅ 入力完了: name, furigana, phone, email, message, select
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.h-wood.co.jp
+  📤 送信完了
+
+==================================================
+🌐 https://www.toishita.co.jp
+  📋 フォームページ（自動検出）: https://www.h-wood.co.jp/contact
+  📋 フォームページ（自動検出）: https://www.toishita.co.jp/form
+  ✅ 入力完了: name, furigana, phone, email, message, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://www.miyamahome.co.jp
+  📋 フォームページ（自動検出）: https://www.miyamahome.co.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, privacy
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://www.ikhome.co.jp/index.html
+  📋 フォームページ（自動検出）: https://www.ikhome.co.jp/contact.html
+  🔗 ハブページ検出 → フォームリンクへ: https://www.ikhome.co.jp/reform/index.html
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://partnershop.takara-standard.co.jp/shop/76
+  📋 フォームページ（自動検出）: https://forms.takara-standard.co.jp/webapp/form/22048_aqgb_12/index.do
+  ✅ 入力完了: message, select, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://www.kame-kobo.jp
+  📋 フォームページ（自動検出）: https://www.kame-kobo.jp/contact
+  ✅ 入力完了: name, furigana, phone, email, message, privacy, privacy_custom
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy
+  📤 送信完了
+  📤 送信完了
+
+==================================================
+🌐 https://shimanokoumuten.co.jp
+
+==================================================
+🌐 https://www.arthome-tohoku.com
+  📋 フォームページ（自動検出）: tel:0196463299
+  ❌ エラー: page.goto: net::ERR_ABORTED at tel:0196463299
+Call log:
+[2m  - navigating to "t
+
+==================================================
+🌐 https://www.iwate-np.co.jp/article/2025/7/15/185058
+  📋 フォームページ（自動検出）: https://company.iwate-np.co.jp/contact-list
+  🔗 ハブページ検出 → フォームリンクへ: https://forms.gle/vLzZVha9byCsri7V7
+  📋 フォームページ（自動検出）: https://shimanokoumuten.co.jp/sassi/
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.michinoku-kensetsu.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.onnazawa.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.rikiryou.com
+  ✅ 入力完了: name, furigana, phone, email, message, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://www.sakura-business-guide.jp/gyoushu/shinkou-kensetu
+  📋 フォームページ（自動検出）: https://www.rikiryou.com/contact/
+  📋 フォームページ（自動検出）: https://www.sakura-business-guide.jp/contact/
+  ✅ 入力完了: name, company, phone, email, email_confirm, message
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://ja.nc-net.or.jp/company/105214/equipment
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://tochimou.jp
+  📋 フォームページ（自動検出）: https://tochimou.jp/contact/
+  ✅ 入力完了: name, phone, email, message
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://homemap.jp/builders/aihomu
+  📋 フォームページ（自動検出）: tel:0287-65-5024
+  ❌ エラー: page.goto: net::ERR_ABORTED at tel:0287-65-5024
+Call log:
+[2m  - navigating to 
+
+==================================================
+🌐 https://www.iwafune-shokokai.or.jp/member/127
+  📋 フォームページ（自動検出）: https://www.iwafune-shokokai.or.jp/contact
+  ✅ 入力完了: name, company, phone, email, message, privacy
+  📤 送信完了
+
+==================================================
+🌐 https://tnhshik.sakura.ne.jp
+  📋 フォームページ（自動検出）: https://tnhshik.sakura.ne.jp/contact
+  ✅ 入力完了: name, furigana, phone, email, message
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://www.erewhon.jp
+  📋 フォームページ（自動検出）: https://www.erewhon.jp/contact/index.php
+  ⚙️  disabled ボタン検出 → カスタム要素をクリックして再試行
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy, privacy_custom
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 http://izumi-k-k.co.jp
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy, privacy_custom
+  📋 フォームページ（自動検出）: http://izumi-k-k.co.jp/inquiry.php
+  📤 送信完了
+  ✅ 入力完了: name, phone, email
+
+==================================================
+🌐 https://kato-koumuten.co.jp
+  📤 送信完了
+
+==================================================
+🌐 https://www.taisei-h.co.jp
+  📋 フォームページ（自動検出）: https://kato-koumuten.co.jp/contact
+  📋 フォームページ（自動検出）: https://www.taisei-h.co.jp/inquiry/index.html
+  🔗 ハブページ検出 → フォームリンクへ: https://www.taisei-h.co.jp/inquiry/inquiry.html
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy, privacy_custom
+  📤 送信完了
+  ✅ 入力完了: name, furigana, phone, email, email_confirm, message, select, privacy
+
+==================================================
+🌐 https://kinokura-home.co.jp
+  📤 送信完了
+  📋 フォームページ（自動検出）: https://kinokura-home.co.jp/event/%e5%b9%b3%e5%b1%8b%e3%83%a2%e3%83%87%e3%83%ab%e3%83%8f%e3%82%a6%e3%82%b9%e8%a6%8b%e5%ad%a6%e4%bc%9a%ef%bc%88%e5%ae%8c%e5%85%a8%e4%ba%88%e7%b4%84%e5%88%b6%ef%bc%89-19/
+
+==================================================
+🌐 https://tobuhousing.co.jp
+  📋 フォームページ（自動検出）: https://tobuhousing.co.jp/contact
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://www.kenchiku-koubou.jp
+  ✅ 入力完了: name, furigana, phone, email, email_confirm, message
+  📤 送信完了
+
+==================================================
+🌐 https://wakaki-group.co.jp
+  📋 フォームページ（自動検出）: https://wakaki-group.co.jp/otoiawase.html
+  ✅ 入力完了: name, furigana, company, phone, email, message, inquiry_type, privacy, privacy_custom
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://saikachi.co.jp
+  📤 送信完了
+
+==================================================
+🌐 https://abekazu.co.jp
+  📋 フォームページ（自動検出）: https://saikachi.co.jp/contact/
+  📋 フォームページ（自動検出）: https://abekazu.co.jp/abekazu/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, select
+  ✅ 入力完了: name, furigana, phone, email, message, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://t-houser.com
+  📋 フォームページ（自動検出）: https://t-houser.com/contact/
+  ✅ 入力完了: name, phone, email, message, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://k-oikawa.co.jp
+  📋 フォームページ（自動検出）: https://k-oikawa.co.jp/contact.php
+  ✅ 入力完了: name, phone, email, message, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 http://yamada--kensetsu.com
+  📋 フォームページ（自動検出）: http://yamada--kensetsu.com/?page_id=10
+  ✅ 入力完了: name, furigana, phone, email, message
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://emurakt.co.jp
+  📤 送信完了
+  📋 フォームページ（自動検出）: https://emurakt.co.jp/g6begrra#01
+
+==================================================
+🌐 https://www.saitojuken.com
+  📋 フォームページ（自動検出）: https://www.saitojuken.com/contact/
+  ✅ 入力完了: name, phone, email, message, select
+  📨 確認画面から最終送信: 送信
+  ✅ 入力完了: name, company, phone, email, message, select, inquiry_type, privacy
+  📤 送信完了
+  📨 確認画面から最終送信: 送信
+
+==================================================
+🌐 https://sd-office.jp
+  📤 送信完了
+  📋 フォームページ（自動検出）: mailto:info@sd-office.jp
+  ❌ エラー: page.goto: net::ERR_ABORTED at mailto:info@sd-office.jp
+Call log:
+[2m  - naviga
+
+==================================================
+🌐 https://digital-construction.jp/column/1761
+
+==================================================
+🌐 https://www.sakenhome.jp
+  📋 フォームページ（自動検出）: https://www.sakenhome.jp/contact
+  📋 フォームページ（自動検出）: https://digital-construction.jp/contact
+  ✅ 入力完了: name, company, email, message, select, privacy
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://sougokikaku.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://selco-souzou.co.jp/company
+  📋 フォームページ（自動検出）: https://selco-souzou.co.jp/contact
+  ✅ 入力完了: name, furigana, phone, email, email_confirm, message, inquiry_type, privacy
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://nasuclub.jp
+  📋 フォームページ（自動検出）: https://nasuclub.jp/contact
+  ✅ 入力完了: name, phone, email, message, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://do-house.jp
+  📋 フォームページ（自動検出）: https://do-house.jp/contact/index.html
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://dokonet.jp/top/shop/tochigi/2835205
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.futabayy.co.jp
+  📋 フォームページ（自動検出）: https://www.futabayy.co.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, inquiry_type, privacy
+  📤 送信完了
+
+==================================================
+🌐 https://www.sustainalife.co.jp
+  📋 フォームページ（自動検出）: https://www.sustainalife.co.jp/faq/
+  🔗 ハブページ検出 → フォームリンクへ: https://www.sustainalife.co.jp/examples/reform/
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://sazen.co.jp
+  📋 フォームページ（自動検出）: https://sazen.co.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, inquiry_type, privacy, privacy_custom
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://www.sato-kensetsu.co.jp
+  📋 フォームページ（自動検出）: https://www.sato-kensetsu.co.jp/contact/
+  ✅ 入力完了: name, phone, email, message, select
+  📤 送信完了
+
+==================================================
+🌐 http://www.makita-komuten.co.jp
+  📋 フォームページ（自動検出）: http://www.makita-komuten.co.jp/contact.html
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://yamamoto-arc.co.jp
+  ✅ 入力完了: name, furigana, company, phone, email, message, select
+  📋 フォームページ（自動検出）: http://yamamoto-arc.co.jp/contact/
+  ✅ 入力完了: furigana, phone, email, message, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信する
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+  📤 送信完了
+
+==================================================
+🌐 https://www.michinoku-kankou.com/%E4%BC%9A%E7%A4%BE%E6%A6%82%E8%A6%81/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%81%BF%E3%81%A1%E3%81%AE%E3%81%8F%E5%BB%BA%E8%A8%AD
+
+==================================================
+🌐 https://www.amenity-home.co.jp
+  📋 フォームページ（自動検出）: https://www.michinoku-kankou.com/%E3%81%8A%E5%95%8F%E3%81%84%E5%90%88%E3%82%8F%E3%81%9B/
+  ✅ 入力完了: name, furigana, phone, email, message, privacy
+  📋 フォームページ（自動検出）: https://www.amenity-home.co.jp/shiryo
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+  ✅ 入力完了: name, phone, email, message, inquiry_type, privacy
+
+==================================================
+🌐 https://hinuma.co.jp
+  📨 確認画面から最終送信: 送信
+  📋 フォームページ（自動検出）: https://hinuma.co.jp/contact/
+  📤 送信完了
+
+==================================================
+🌐 http://seijyo1983.jp
+  📋 フォームページ（自動検出）: http://seijyo1983.jp/contact/
+  ✅ 入力完了: name, phone, email, message, inquiry_type, privacy
+  ✅ 入力完了: name, email, message, privacy
+  📤 送信完了
+
+==================================================
+🌐 https://rabbynet.zennichi.or.jp/agency/15050497
+  📋 フォームページ（自動検出）: https://rabbynet.zennichi.or.jp/inquiry/agency/?kaiin_no=15050497
+  ✅ 入力完了: name, phone, email, message, inquiry_type, privacy
+  📤 送信完了
+
+==================================================
+🌐 https://www.sannwa.co.jp
+  📋 フォームページ（自動検出）: https://www.sannwa.co.jp/contact
+  📤 送信完了
+
+==================================================
+🌐 http://www.hakkokensetsu.co.jp
+  📋 フォームページ（自動検出）: http://www.hakkokensetsu.co.jp/mailform/example.html
+  ✅ 入力完了: name, furigana, phone, email, message, select, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://home.katitas.jp/buyers_search/area/gunma
+  ✅ 入力完了: name, furigana, phone, email, message, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+  📋 フォームページ（自動検出）: https://katitas.jp/sellers/contact/
+
+==================================================
+🌐 https://www.e-ones.jp
+  📋 フォームページ（自動検出）: https://www.e-ones.jp/contact
+  ✅ 入力完了: select
+  📤 送信完了
+
+==================================================
+🌐 https://www.style-web.sakura.ne.jp/miyabun
+  ❌ エラー: page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.style-web.sakura.ne.
+
+==================================================
+🌐 https://www.hyodokoumuten.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.hyodokoumuten.co.jp/" is interrupted by an
+
+==================================================
+🌐 https://www.shinodakoumuten.jp
+  ❌ エラー: page.goto: Navigation to "https://www.shinodakoumuten.jp/" is interrupted by ano
+
+==================================================
+🌐 http://chi-shi-ma.co.jp
+  ✅ 入力完了: name, phone, email, message, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://saitoukensetsu.co.jp
+  ❌ エラー: page.goto: Navigation to "http://chi-shi-ma.co.jp/" is interrupted by another na
+
+==================================================
+🌐 https://www.choken.jp
+  ❌ エラー: page.goto: Navigation to "https://www.choken.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://ishizeki.co.jp
+  ❌ エラー: page.goto: Navigation to "https://ishizeki.co.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://wabika.com
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 http://www7b.biglobe.ne.jp/~sugawara-koumuten
+  ❌ エラー: page.goto: Navigation to "https://wabika.com/" is interrupted by another navigat
+
+==================================================
+🌐 https://www.kurosawa55.com
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 http://www.muraokagumi.jp
+  ❌ エラー: page.goto: Navigation to "https://www.kurosawa55.com/" is interrupted by another
+
+==================================================
+🌐 https://lasta1015.com
+  ❌ エラー: page.goto: Navigation to "https://lasta1015.com/" is interrupted by another navi
+
+==================================================
+🌐 https://gunma-shukatsu-navi.jp/company/id2422
+  ❌ エラー: page.goto: Navigation to "https://gunma-shukatsu-navi.jp/company/id2422" is inte
+
+==================================================
+🌐 https://www.crosshouse.jp
+  ❌ エラー: page.goto: Navigation to "https://www.crosshouse.jp/" is interrupted by another 
+
+==================================================
+🌐 http://www.ishin-isesaki.co.jp
+  ❌ エラー: page.goto: Navigation to "http://www.ishin-isesaki.co.jp/" is interrupted by ano
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.renesys.co.jp
+  📋 フォームページ（自動検出）: https://www.renesys.co.jp/contact/
+  ✅ 入力完了: name, furigana, company, phone, email, message, select, privacy
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://kitakyuhome.com
+  📋 フォームページ（自動検出）: https://kitakyuhome.com/contact/
+  ✅ 入力完了: name, furigana, phone, email, email_confirm, message
+  📤 送信完了
+
+==================================================
+🌐 https://sumikouhome.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://sumikouhome.co.jp/
+Call log:
+
+==================================================
+🌐 https://e-takaken.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.terasawa-k.co.jp
+  📋 フォームページ（自動検出）: https://www.terasawa-k.co.jp/pages/18/
+  ✅ 入力完了: name, furigana, phone, email, message, select, inquiry_type, privacy
+  📤 送信完了
+
+==================================================
+🌐 https://www.zaisan-consulting.co.jp
+  📋 フォームページ（自動検出）: https://www.zaisan-consulting.co.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://sanyu-yuzawa.co.jp
+  📋 フォームページ（自動検出）: https://sanyu-yuzawa.co.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://himori-k.net
+  📋 フォームページ（自動検出）: https://himori-k.net/mail
+  ✅ 入力完了: name, phone, email, message, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 http://www.minoru-arch.com
+  📋 フォームページ（自動検出）: http://www.minoru-arch.com/05contact.html
+  ✅ 入力完了: name, furigana, phone, email, message, inquiry_type, privacy
+  📤 送信完了
+
+==================================================
+🌐 https://yamakenn.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.akitahouse.co.jp
+  📋 フォームページ（自動検出）: https://www.akitahouse.co.jp/#
+  🔗 ハブページ検出 → フォームリンクへ: https://www.akitahouse.co.jp/reform.html
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://itobuild.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://kaiteki-seikatsu.co.jp
+  📋 フォームページ（自動検出）: https://kaiteki-seikatsu.co.jp/%e7%b7%8f%e5%90%88%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0/
+  ✅ 入力完了: name, furigana, phone, email, message, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://ootakougyou.com
+  📋 フォームページ（自動検出）: https://ootakougyou.com/contact/
+  ✅ 入力完了: name, email, message, privacy
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://www.odasima.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://techno-akita.com
+  📋 フォームページ（自動検出）: https://techno-akita.com/contact/
+  ✅ 入力完了: name, furigana, phone, email, select, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://sanwahome.jp
+  📋 フォームページ（自動検出）: https://sanwahome.jp/contact/
+  ✅ 入力完了: name, phone, email, message
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://narita-const.co.jp
+  📋 フォームページ（自動検出）: https://narita-const.co.jp/contact
+  ✅ 入力完了: name, furigana, phone, email, message, privacy_custom
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://molx.co.jp
+  📋 フォームページ（自動検出）: https://molx.co.jp/contact/
+  ✅ 入力完了: privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://takanohashi.jp
+  📋 フォームページ（自動検出）: https://takanohashi.jp/pages/3/
+  ✅ 入力完了: name, furigana, phone, email, message, select
+  📤 送信完了
+
+==================================================
+🌐 https://createlemon.jp
+  📋 フォームページ（自動検出）: https://createlemon.jp/contact
+  ✅ 入力完了: name, furigana, company, department, phone, email, message, select, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://ichicom.co.jp
+  📋 フォームページ（自動検出）: https://ichicom.co.jp/contact/
+  ✅ 入力完了: name, company, phone, email, message, select, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://lh-oumi.co.jp
+  📋 フォームページ（自動検出）: https://lh-oumi.co.jp/contact/
+  🔗 ハブページ検出 → フォームリンクへ: https://lh-oumi.co.jp/reform/
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://www.mizuhok.com
+  📋 フォームページ（自動検出）: https://www.mizuhok.com/contact/
+  ✅ 入力完了: name, phone, email, message, select, inquiry_type, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://ono-const.co.jp
+  📋 フォームページ（自動検出）: https://ono-const.co.jp/contact/
+  ✅ 入力完了: name, furigana, company, department, phone, email, message, inquiry_type, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://www.kksuzuki.jp
+  📋 フォームページ（自動検出）: https://www.kksuzuki.jp/contact
+  ✅ 入力完了: name, furigana, phone, email, email_confirm, message, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://ohta-kensetu.co.jp
+  📋 フォームページ（自動検出）: https://ohta-kensetu.co.jp/contact
+  ✅ 入力完了: phone, email, message, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://design-home.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.customsmile.co.jp
+  📋 フォームページ（自動検出）: https://www.customsmile.co.jp/form/2
+  ⚙️  disabled ボタン検出 → カスタム要素をクリックして再試行
+  ✅ 入力完了: name, phone, message, select
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://www.value-c.jp
+  📋 フォームページ（自動検出）: https://www.value-c.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://takara-koumuten.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://abeta-f.jp
+  📋 フォームページ（自動検出）: https://abeta-f.jp/contact
+  ✅ 入力完了: name, furigana, phone, email, message, select, inquiry_type, privacy
+  📤 送信完了
+
+==================================================
+🌐 https://www.ichijo.co.jp/guide
+  📋 フォームページ（自動検出）: https://www.ichijo.co.jp/inquiry/
+  🔗 ハブページ検出 → フォームリンクへ: https://www.ichijo.co.jp/inquiry/form/catalog/
+  ✅ 入力完了: privacy
+  📤 送信完了
+
+==================================================
+🌐 http://www.tshome-aoyama.com
+  📋 フォームページ（自動検出）: http://www.tshome-aoyama.com/contact
+  ✅ 入力完了: name, furigana, phone, email, message
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://www.daimarufudousan.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.lixil-reformshop.jp/shop/SP00001312
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://miura-kk.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://wb-minagawa.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.akebonof.com
+  📋 フォームページ（自動検出）: https://www.akebonof.com/contact/
+  ✅ 入力完了: name, phone, email, message, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://nas-con.jp
+  📋 フォームページ（自動検出）: https://nas-con.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://takahashi-tcc.co.jp
+  📋 フォームページ（自動検出）: https://takahashi-tcc.co.jp/contact/
+  ✅ 入力完了: name, furigana, company, phone, email, message, privacy
+  📨 確認画面から最終送信: 送信
+  📤 送信完了
+
+==================================================
+🌐 https://www.yamagata-cci.or.jp/welcome/wlcm_33.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://watanabe-kenchiku.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.aokihouse.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ajiro-kensetu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+✅ 完了: 146/600件 送信成功

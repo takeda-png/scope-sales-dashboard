@@ -1,0 +1,2473 @@
+📊 pending: 1687件
+🚀 今回の送信: 600件 / 3並列
+
+
+==================================================
+🌐 https://toyao.jp
+
+==================================================
+🌐 https://maida.jp
+
+==================================================
+🌐 https://www.ogura-home.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://builders.homeskun.jp/detail/445
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kk35.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://momoikensetsu.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.nakamuragumi.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.uchiike-home.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://samurahome.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hisatomo.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.misawa-koumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.maru-8.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://mitemite-openhouse.jp/kansai/builder/hidukurikenchiku
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ai-koumuten.co.jp/exhibition/sapporo-kita
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://mamiyakenchiku.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hhd.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kkooi.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.matsuhisakenchiku.net
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.homecheery.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.hiranaka.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://gifu-marusho.co.jp
+  ❌ エラー: page.goto: net::ERR_NAME_NOT_RESOLVED at http://www.hiranaka.jp/
+Call log:
+[2m 
+
+==================================================
+🌐 https://www.fujiikohmuten.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.fujiikohmuten.co.jp/" is interrupted by an
+
+==================================================
+🌐 https://naitou-con.co.jp/company/about
+  ❌ エラー: page.goto: Navigation to "https://naitou-con.co.jp/company/about" is interrupted
+
+==================================================
+🌐 https://www.toseicorp.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.toseicorp.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://www.hoosiers.co.jp/corporation
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kk-horiken.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.ul-house.jp
+  ❌ エラー: page.goto: Navigation to "https://www.hoosiers.co.jp/corporation" is interrupted
+
+==================================================
+🌐 https://www.asteeq.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.asteeq.co.jp/" is interrupted by another n
+
+==================================================
+🌐 https://www.morimoto-home.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.morimoto-home.co.jp/" is interrupted by an
+
+==================================================
+🌐 https://www.grand-home.jp
+  ❌ エラー: page.goto: Navigation to "https://www.grand-home.jp/" is interrupted by another 
+
+==================================================
+🌐 https://job.career-tasu.jp/corp/00092274
+  📋 フォームページ（自動検出）: http://www.ul-house.jp/contact
+  ❌ エラー: page.goto: Navigation to "https://job.career-tasu.jp/corp/00092274" is interrupt
+
+==================================================
+🌐 https://www.daiwa-r.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.daiwa-r.co.jp/" is interrupted by another 
+
+==================================================
+🌐 https://grande-tokyo.jp
+  ❌ エラー: page.goto: Navigation to "https://grande-tokyo.jp/" is interrupted by another na
+
+==================================================
+🌐 https://nihonjyuutaku.co.jp
+  ❌ エラー: page.goto: Navigation to "https://nihonjyuutaku.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://estate-cosmo.co.jp
+  ❌ エラー: page.goto: Navigation to "https://estate-cosmo.co.jp/" is interrupted by another
+
+==================================================
+🌐 https://www.jyutaku-s.or.jp
+  ❌ エラー: page.goto: Navigation to "https://www.jyutaku-s.or.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://www.lead-real.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.lead-real.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://housset.co.jp
+  📋 フォームページ（自動検出）: https://kk-horiken.co.jp/contact
+  ✅ 入力完了: name, phone, email, message, privacy, privacy_custom
+  ❌ エラー: page.goto: Navigation to "https://housset.co.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://www.odakyu-fudosan.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.odakyu-fudosan.co.jp/" is interrupted by a
+
+==================================================
+🌐 https://www.h-plaza.co.jp
+  📤 送信完了
+  ❌ エラー: page.goto: Navigation to "https://www.h-plaza.co.jp/" is interrupted by another 
+
+==================================================
+🌐 https://www.tlhome.co.jp
+
+==================================================
+🌐 https://www.0153.jp
+  ❌ エラー: page.goto: Navigation to "https://www.tlhome.co.jp/" is interrupted by another n
+
+==================================================
+🌐 https://youproject.jp
+  ❌ エラー: page.goto: Navigation to "https://youproject.jp/" is interrupted by another navi
+
+==================================================
+🌐 http://probank-home.co.jp
+  ❌ エラー: page.goto: Navigation to "http://probank-home.co.jp/" is interrupted by another 
+
+==================================================
+🌐 https://www.real-t.jp
+  ❌ エラー: page.goto: Navigation to "https://www.real-t.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://isarc.co.jp
+  ❌ エラー: page.goto: Navigation to "https://isarc.co.jp/" is interrupted by another naviga
+
+==================================================
+🌐 https://houselink.co.jp
+  ❌ エラー: page.goto: Navigation to "https://houselink.co.jp/" is interrupted by another na
+
+==================================================
+🌐 http://kasumi-k.co.jp
+  ✅ 入力完了: name, furigana, phone, email, message, inquiry_type, privacy
+  📋 フォームページ（自動検出）: https://www.0153.jp/pages/3/
+  📤 送信完了
+  ❌ エラー: page.goto: Navigation to "http://kasumi-k.co.jp/" is interrupted by another navi
+
+==================================================
+🌐 http://tosho-kensetsu.co.jp
+  ❌ エラー: page.goto: Navigation to "http://tosho-kensetsu.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://housingsquare.co.jp
+  ❌ エラー: page.goto: Navigation to "https://housingsquare.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://www.clast.co.jp
+
+==================================================
+🌐 https://www.horisakigumi.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.clast.co.jp/" is interrupted by another na
+
+==================================================
+🌐 https://www.lixil-jk-ghs.jp
+  ❌ エラー: page.goto: Navigation to "https://www.lixil-jk-ghs.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://www.maruyama-koumuten.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.maruyama-koumuten.co.jp/" is interrupted b
+
+==================================================
+🌐 https://aventhouse.jp
+  ✅ 入力完了: name, furigana, phone, email, message, privacy
+  ❌ エラー: page.goto: Navigation to "https://aventhouse.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://irisawa-k.co.jp
+  📤 送信完了
+  ❌ エラー: page.goto: Navigation to "https://irisawa-k.co.jp/" is interrupted by another na
+
+==================================================
+🌐 https://to-yama.co.jp
+  ❌ エラー: page.goto: Navigation to "https://to-yama.co.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://aibaeco.co.jp
+
+==================================================
+🌐 http://nozaki-co.sakura.ne.jp/HP/home.html
+  ❌ エラー: page.goto: Navigation to "https://aibaeco.co.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://www.kindaitatemono.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.kindaitatemono.co.jp/" is interrupted by a
+
+==================================================
+🌐 https://www.yama-chou.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.yama-chou.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://daiwajuhan.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 http://kikuya-koumuten.co.jp
+  ❌ エラー: page.goto: Navigation to "https://daiwajuhan.co.jp/" is interrupted by another n
+
+==================================================
+🌐 https://www.kinoshita-koumuten.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.kinoshita-koumuten.co.jp/" is interrupted 
+
+==================================================
+🌐 https://livenup.co.jp
+  📋 フォームページ（自動検出）: https://www.horisakigumi.co.jp/inquire/
+  ❌ エラー: page.goto: Navigation to "https://livenup.co.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://yamaman.co.jp
+  ✅ 入力完了: name, company, phone, email, message, inquiry_type, privacy
+  📋 フォームページ（自動検出）: http://kikuya-koumuten.co.jp/contact/
+  📤 送信完了
+
+==================================================
+🌐 https://www.yohyoh.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.samantha.co.jp/company/company_profile
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.rinkohjyutaku.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.living-motif-kiki.jp
+  📋 フォームページ（自動検出）: https://www.samantha.co.jp/company/cs/#cs6
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.happy-yamada.com
+  🔗 ハブページ検出 → フォームリンクへ: https://www.samantha.co.jp/shop/customer/entry.aspx
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://aml-home.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kawasho-k.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.maruei-it.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.miekenkyo.or.jp/list_ise.php
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.besthousing.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.amix.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.daiso-c.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.gohokensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.woodship.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://towano-koso.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.takumi-koumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.mtm-inc.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kukino.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://misumikensetsu.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.r-development.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://taniguchi-koumuten.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.suzuki-business.co.jp/house/sales-branch
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.unite-corp.jp/greeting
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.okudakoumuten.jp
+  📋 フォームページ（自動検出）: https://www.suzuki-business.co.jp/house/inquiry
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.azalea-home.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.daiki-k.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.benhouse-net.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.system-sok.com
+  ✅ 入力完了: name, furigana, company, phone, email, email_confirm, message, inquiry_type, privacy, privacy_custom
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://www.benhouse-net.co.jp/
+Call log:
+
+==================================================
+🌐 https://habitat-co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://www.system-sok.com/
+Call log:
+[2
+
+==================================================
+🌐 https://hashimoto-net.co.jp
+  ❌ エラー: page.goto: Navigation to "https://hashimoto-net.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://ayaha-home.co.jp
+  ❌ エラー: page.goto: Navigation to "https://habitat-co.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://www.taise-housing.co.jp
+  ❌ エラー: page.goto: Navigation to "https://ayaha-home.co.jp/" is interrupted by another n
+
+==================================================
+🌐 https://moritoshi.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.taise-housing.co.jp/" is interrupted by an
+
+==================================================
+🌐 https://www.heartfulhome.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.heartfulhome.co.jp/" is interrupted by ano
+
+==================================================
+🌐 http://www.nemotokensetsu.co.jp
+  ❌ エラー: page.goto: Navigation to "http://www.nemotokensetsu.co.jp/" is interrupted by an
+
+==================================================
+🌐 https://www.soken-planning.jp
+  ❌ エラー: page.goto: Navigation to "https://www.soken-planning.jp/" is interrupted by anot
+
+==================================================
+🌐 https://www.mizuhokk.co.jp
+  ❌ エラー: page.goto: Navigation to "https://moritoshi.co.jp/" is interrupted by another na
+
+==================================================
+🌐 https://acehomes-hikonyans.jp
+  ❌ エラー: page.goto: Navigation to "https://acehomes-hikonyans.jp/" is interrupted by anot
+
+==================================================
+🌐 https://www.ito-k.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.mizuhokk.co.jp/" is interrupted by another
+
+==================================================
+🌐 http://www.yamaguchihome.jp
+  ❌ エラー: page.goto: Navigation to "http://www.yamaguchihome.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://ishibe38.co.jp/com
+  ❌ エラー: page.goto: Navigation to "https://www.ito-k.co.jp/" is interrupted by another na
+
+==================================================
+🌐 https://gamoukoumuten.com
+  ❌ エラー: page.goto: Navigation to "https://ishibe38.co.jp/com" is interrupted by another 
+
+==================================================
+🌐 https://www.sansei-jyuken.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.sansei-jyuken.co.jp/" is interrupted by an
+
+==================================================
+🌐 https://www.towns-home.jp
+  ❌ エラー: page.goto: Navigation to "https://gamoukoumuten.com/" is interrupted by another 
+
+==================================================
+🌐 https://www.shiganoie.jp/maker
+  ❌ エラー: page.goto: Navigation to "https://www.towns-home.jp/" is interrupted by another 
+
+==================================================
+🌐 https://naruki-k.jp
+  ❌ エラー: page.goto: Navigation to "https://www.shiganoie.jp/maker" is interrupted by anot
+
+==================================================
+🌐 https://all-in.co.jp
+  ❌ エラー: page.goto: Navigation to "https://naruki-k.jp/" is interrupted by another naviga
+
+==================================================
+🌐 https://kk-fujii.co.jp
+  ❌ エラー: page.goto: Navigation to "https://all-in.co.jp/" is interrupted by another navig
+
+==================================================
+🌐 https://www.24u.jp/0775337751
+  ❌ エラー: page.goto: Navigation to "https://www.24u.jp/0775337751" is interrupted by anoth
+
+==================================================
+🌐 https://alti.jp
+  ❌ エラー: page.goto: Navigation to "https://kk-fujii.co.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://www.marutei.jp/company
+  ❌ エラー: page.goto: Navigation to "https://alti.jp/" is interrupted by another navigation
+
+==================================================
+🌐 https://www.woody-land.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.woody-land.co.jp/" is interrupted by anoth
+
+==================================================
+🌐 https://keiji.bess.jp
+  ❌ エラー: page.goto: Navigation to "https://keiji.bess.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://yasudakoumuten.com
+  ❌ エラー: page.goto: Navigation to "https://www.marutei.jp/company" is interrupted by anot
+
+==================================================
+🌐 https://aoken-cf.jp
+  ❌ エラー: page.goto: Navigation to "https://aoken-cf.jp/" is interrupted by another naviga
+
+==================================================
+🌐 https://www.tukumihomes.jp
+  ❌ エラー: page.goto: Navigation to "https://www.tukumihomes.jp/" is interrupted by another
+
+==================================================
+🌐 https://tomylife.jp
+  ❌ エラー: page.goto: Navigation to "https://yasudakoumuten.com/" is interrupted by another
+
+==================================================
+🌐 https://www.ncn-se.co.jp/se/builderslist/detail/2023060900000001
+  ❌ エラー: page.goto: Navigation to "https://www.ncn-se.co.jp/se/builderslist/detail/202306
+
+==================================================
+🌐 https://home-ncj.co.jp/heartfull-village/reserve/shiga
+  ❌ エラー: page.goto: Navigation to "https://tomylife.jp/" is interrupted by another naviga
+
+==================================================
+🌐 https://misimaya.co.jp
+  ❌ エラー: page.goto: Navigation to "https://misimaya.co.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://www.yamatehomes.jp
+  ❌ エラー: page.goto: Navigation to "https://home-ncj.co.jp/heartfull-village/reserve/shiga
+
+==================================================
+🌐 https://www.kusukame.com
+  ❌ エラー: page.goto: Navigation to "https://www.yamatehomes.jp/" is interrupted by another
+
+==================================================
+🌐 http://www.aioihousing.jp
+  ❌ エラー: page.goto: Navigation to "https://www.kusukame.com/" is interrupted by another n
+
+==================================================
+🌐 https://shige-nobu.com
+  ❌ エラー: page.goto: Navigation to "http://www.aioihousing.jp/" is interrupted by another 
+
+==================================================
+🌐 http://iconfactory.jp
+  ❌ エラー: page.goto: Navigation to "http://iconfactory.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://www.ei-rin.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.ei-rin.co.jp/" is interrupted by another n
+
+==================================================
+🌐 http://www.eiwa-h.jp
+  ❌ エラー: page.goto: Navigation to "https://shige-nobu.com/" is interrupted by another nav
+
+==================================================
+🌐 http://www.fujisawacons.jp
+  ❌ エラー: page.goto: Navigation to "http://www.fujisawacons.jp/" is interrupted by another
+
+==================================================
+🌐 https://okamoto-koumuten.co.jp
+  ❌ エラー: page.goto: Navigation to "http://www.eiwa-h.jp/" is interrupted by another navig
+
+==================================================
+🌐 https://www.ooba-shouten.co.jp:443
+  ❌ エラー: page.goto: Navigation to "https://www.ooba-shouten.co.jp/" is interrupted by ano
+
+==================================================
+🌐 https://souzoku-mondai.jp/kanagawa/4209
+  ❌ エラー: page.goto: Navigation to "https://okamoto-koumuten.co.jp/" is interrupted by ano
+
+==================================================
+🌐 https://colorskoumuten.com
+  ❌ エラー: page.goto: Navigation to "https://souzoku-mondai.jp/kanagawa/4209" is interrupte
+
+==================================================
+🌐 https://www.jhomes.jp
+  ❌ エラー: page.goto: Navigation to "https://colorskoumuten.com/" is interrupted by another
+
+==================================================
+🌐 https://www.kiyacho.jp
+  ❌ エラー: page.goto: Navigation to "https://www.jhomes.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://www.ishitomo-home.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.ishitomo-home.co.jp/" is interrupted by an
+
+==================================================
+🌐 https://www.tsuji-kensetsu.jp
+  ❌ エラー: page.goto: Navigation to "https://www.kiyacho.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://www.24u.jp/0749461115
+  ❌ エラー: page.goto: Navigation to "https://www.tsuji-kensetsu.jp/" is interrupted by anot
+
+==================================================
+🌐 https://www.rhouse-takaoka.jp
+  ❌ エラー: page.goto: Navigation to "https://www.24u.jp/0749461115" is interrupted by anoth
+
+==================================================
+🌐 https://hana-designs.jp
+  ❌ エラー: page.goto: Navigation to "https://www.rhouse-takaoka.jp/" is interrupted by anot
+
+==================================================
+🌐 https://www.ai-koumuten.co.jp/exhibition/aigallery-toyama
+  ❌ エラー: page.goto: Navigation to "https://hana-designs.jp/" is interrupted by another na
+
+==================================================
+🌐 https://essri.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.ai-koumuten.co.jp/exhibition/aigallery-toy
+
+==================================================
+🌐 https://himi.ja-toyama.jp
+  ❌ エラー: page.goto: Navigation to "https://himi.ja-toyama.jp/" is interrupted by another 
+
+==================================================
+🌐 https://www.oscarhome.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.oscarhome.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://www.odakehome.co.jp
+  ❌ エラー: page.goto: Navigation to "https://essri.co.jp/" is interrupted by another naviga
+
+==================================================
+🌐 https://kinki-mokuju.jp/member/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BEimacoco
+  ❌ エラー: page.goto: Navigation to "https://kinki-mokuju.jp/member/%E6%A0%AA%E5%BC%8F%E4%B
+
+==================================================
+🌐 https://o-tuka.com
+  ❌ エラー: page.goto: Navigation to "https://www.odakehome.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://www.e-canada.jp
+  ❌ エラー: page.goto: Navigation to "https://www.e-canada.jp/" is interrupted by another na
+
+==================================================
+🌐 https://oliver-gr.co.jp
+  ❌ エラー: page.goto: Navigation to "https://oliver-gr.co.jp/" is interrupted by another na
+
+==================================================
+🌐 https://www.woodlife-home.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.woodlife-home.co.jp/" is interrupted by an
+
+==================================================
+🌐 https://www.ishitomo-reform.co.jp
+  ❌ エラー: page.goto: Navigation to "https://o-tuka.com/" is interrupted by another navigat
+
+==================================================
+🌐 https://www.canada-home.jp/reform/company
+  ❌ エラー: page.goto: Navigation to "https://www.ishitomo-reform.co.jp/" is interrupted by 
+
+==================================================
+🌐 https://yamaichi1950.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.canada-home.jp/reform/company" is interrup
+
+==================================================
+🌐 https://mitemite-openhouse.jp/kansai/builder/okumura-kaihatu
+  ❌ エラー: page.goto: Navigation to "https://yamaichi1950.co.jp/" is interrupted by another
+
+==================================================
+🌐 https://www.chumoku-house.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://rabbynet.zennichi.or.jp/agency/15251313/print
+  📤 送信完了
+
+==================================================
+🌐 https://cocoro-k.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.arshome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.bamboo-island.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.miyakoda.co.jp/sp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.tih.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 http://www.yamauchi-k.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.daikane.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ykhome.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://deguchi-homes.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://deguchi-homes.jp/
+Call log:
+[2m 
+
+==================================================
+🌐 https://www.afterhome.jp
+  ❌ エラー: page.goto: Navigation to "https://www.afterhome.jp/" is interrupted by another n
+
+==================================================
+🌐 https://www.fujimokunoie.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.toware.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.fujimokunoie.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://aruhouse.co.jp
+  ❌ エラー: page.goto: Navigation to "https://aruhouse.co.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://watahan.co.jp/holdings/group/homes
+  ❌ エラー: page.goto: Navigation to "https://watahan.co.jp/holdings/group/homes" is interru
+
+==================================================
+🌐 https://www.hiramatsu-kenchiku.jp
+  ❌ エラー: page.goto: Navigation to "https://www.hiramatsu-kenchiku.jp/" is interrupted by 
+
+==================================================
+🌐 https://meiwa-jk.jp
+  ❌ エラー: page.goto: Navigation to "https://meiwa-jk.jp/" is interrupted by another naviga
+
+==================================================
+🌐 https://www.keystone-ha.co.jp/company/outline.php
+  ❌ エラー: page.goto: Navigation to "https://www.keystone-ha.co.jp/company/outline.php" is 
+
+==================================================
+🌐 https://www.idk.jp/./index.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://koyokousan.jp
+  ❌ エラー: page.goto: Navigation to "https://www.idk.jp/index.html" is interrupted by anoth
+
+==================================================
+🌐 https://www.sweet-home.jp
+  ❌ エラー: page.goto: Navigation to "https://www.sweet-home.jp/" is interrupted by another 
+
+==================================================
+🌐 https://ate-sakura.co.jp
+  ❌ エラー: page.goto: Navigation to "https://ate-sakura.co.jp/" is interrupted by another n
+
+==================================================
+🌐 https://www.tokiwak.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.tokiwak.co.jp/" is interrupted by another 
+
+==================================================
+🌐 https://www.sanwa-k.jp
+  ❌ エラー: page.goto: Navigation to "https://www.sanwa-k.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://kaneko-k.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ne-xt.co.jp
+  ❌ エラー: page.goto: Navigation to "https://kaneko-k.jp/" is interrupted by another naviga
+
+==================================================
+🌐 https://miyashita-koumuten.co.jp
+  ❌ エラー: page.goto: Navigation to "https://miyashita-koumuten.co.jp/" is interrupted by a
+
+==================================================
+🌐 https://www.daibahome.co.jp/about
+  ❌ エラー: page.goto: Navigation to "https://www.daibahome.co.jp/about" is interrupted by a
+
+==================================================
+🌐 https://www.heiwakensetu.jp
+  ❌ エラー: page.goto: Navigation to "https://www.heiwakensetu.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://www.szki.co.jp/company
+  ❌ エラー: page.goto: Navigation to "https://www.szki.co.jp/company" is interrupted by anot
+
+==================================================
+🌐 https://seriko.com
+  ❌ エラー: page.goto: Navigation to "https://seriko.com/" is interrupted by another navigat
+
+==================================================
+🌐 http://sato2201.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.income-house.co.jp
+  ❌ エラー: page.goto: Navigation to "http://sato2201.com/" is interrupted by another naviga
+
+==================================================
+🌐 https://iki2home.co.jp
+  📋 フォームページ（自動検出）: https://www.ne-xt.co.jp/contact/
+  ❌ エラー: page.goto: Navigation to "https://iki2home.co.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://zero-fujita.com
+  ✅ 入力完了: name, phone, email, message, select, privacy_custom
+  📨 確認画面から最終送信: 送信
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://mita-home.co.jp
+  📤 送信完了
+
+==================================================
+🌐 http://mag-n.jp/detail.php
+  ❌ エラー: page.goto: Navigation to "https://zero-fujita.com/" is interrupted by another na
+
+==================================================
+🌐 https://meitokukensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.hirokawakk.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://kamei-komuten.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ishimaki.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.yonemoku.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kitamura-kenchiku.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://katsura-kk.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://www.kitamura-kenchiku.jp/
+Call lo
+
+==================================================
+🌐 https://goodhouse.homepage.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://katsura-kk.jp/
+Call log:
+[2m  - 
+
+==================================================
+🌐 https://lifelabel-stores.jp/kiba-ad
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://www.yonemoku.co.jp/
+Call log:
+[2
+
+==================================================
+🌐 https://www.maruwa-home.jp
+  ❌ エラー: page.goto: Navigation to "https://www.maruwa-home.jp/" is interrupted by another
+
+==================================================
+🌐 https://cuore-home.jp
+  ❌ エラー: page.goto: Navigation to "https://goodhouse.homepage.jp/" is interrupted by anot
+
+==================================================
+🌐 https://www.jyukatsukyo.or.jp/builderlist/page/2
+  ❌ エラー: page.goto: Navigation to "https://lifelabel-stores.jp/kiba-ad" is interrupted by
+
+==================================================
+🌐 https://www.home-sakura.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.jyukatsukyo.or.jp/builderlist/page/2" is i
+
+==================================================
+🌐 https://takumi-s.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.home-sakura.co.jp/" is interrupted by anot
+
+==================================================
+🌐 https://www.fujihomes.com
+  ❌ エラー: page.goto: Navigation to "https://cuore-home.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://www.e-daiku3a.co.jp
+  ❌ エラー: page.goto: Navigation to "https://takumi-s.co.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://www.tomiken.jp
+  ❌ エラー: page.goto: Navigation to "https://www.tomiken.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://kinoie-fujikou.jp
+  ❌ エラー: page.goto: Navigation to "https://kinoie-fujikou.jp/" is interrupted by another 
+
+==================================================
+🌐 https://miyajima-reuse.com
+  ❌ エラー: page.goto: Navigation to "https://www.e-daiku3a.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 http://takatakensetu.co.jp
+  ❌ エラー: page.goto: Navigation to "http://takatakensetu.co.jp/" is interrupted by another
+
+==================================================
+🌐 https://kknakada.co.jp
+  ❌ エラー: page.goto: Navigation to "https://miyajima-reuse.com/" is interrupted by another
+
+==================================================
+🌐 https://www.lake-land.jp
+  ❌ エラー: page.goto: Navigation to "https://www.fujihomes.com/" is interrupted by another 
+
+==================================================
+🌐 https://iwax.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.lake-land.jp/" is interrupted by another n
+
+==================================================
+🌐 https://www.ie-miru.jp/cms/yoyaku/konan/events/3448
+  ❌ エラー: page.goto: Navigation to "https://www.ie-miru.jp/cms/yoyaku/konan/events/3448" i
+
+==================================================
+🌐 https://nagatakoumuten.co.jp
+  ❌ エラー: page.goto: Navigation to "https://iwax.co.jp/" is interrupted by another navigat
+
+==================================================
+🌐 https://www.onoda-sg.co.jp
+  ❌ エラー: page.goto: Navigation to "https://kknakada.co.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://nojima-k.jp
+  ❌ エラー: page.goto: Navigation to "https://nojima-k.jp/" is interrupted by another naviga
+
+==================================================
+🌐 https://www.yunite.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.onoda-sg.co.jp/" is interrupted by another
+
+==================================================
+🌐 https://www.suyama-group.co.jp
+  ❌ エラー: page.goto: Navigation to "https://nagatakoumuten.co.jp/" is interrupted by anoth
+
+==================================================
+🌐 https://homelife.jp
+  ❌ エラー: page.goto: Navigation to "https://www.yunite.co.jp/" is interrupted by another n
+
+==================================================
+🌐 http://mizuhokensetsu.co.jp
+  ❌ エラー: page.goto: Navigation to "http://mizuhokensetsu.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://so-sunmaike.com
+  ❌ エラー: page.goto: Navigation to "https://so-sunmaike.com/" is interrupted by another na
+
+==================================================
+🌐 http://www.athome-hp.co.jp
+  ❌ エラー: page.goto: Navigation to "http://www.athome-hp.co.jp/" is interrupted by another
+
+==================================================
+🌐 https://tomisou.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.suyama-group.co.jp/" is interrupted by ano
+
+==================================================
+🌐 https://kk-imai.com
+  ❌ エラー: page.goto: Navigation to "https://kk-imai.com/" is interrupted by another naviga
+
+==================================================
+🌐 https://casa-eco.co.jp
+  ❌ エラー: page.goto: Navigation to "https://tomisou.co.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://nagamori-kk.jp
+  ❌ エラー: page.goto: Navigation to "https://homelife.jp/" is interrupted by another naviga
+
+==================================================
+🌐 https://www.milano.co.jp
+  ❌ エラー: page.goto: Navigation to "https://casa-eco.co.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://kaname-souken.co.jp
+  ❌ エラー: page.goto: Navigation to "https://nagamori-kk.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://www.konoka-maeken.jp
+  ❌ エラー: page.goto: Navigation to "https://www.milano.co.jp/" is interrupted by another n
+
+==================================================
+🌐 https://www.housedo.co.jp/and-do/company/outline.html
+  ❌ エラー: page.goto: Navigation to "https://kaname-souken.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://sugimori.i-ra.jp
+  ❌ エラー: page.goto: Navigation to "https://www.konoka-maeken.jp/" is interrupted by anoth
+
+==================================================
+🌐 https://www.5wari1bu.jp
+  ❌ エラー: page.goto: Navigation to "https://www.housedo.co.jp/and-do/company/outline.html"
+
+==================================================
+🌐 https://www.houki-sc.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.daido-kogyo.co.jp/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.myhome-tanaka.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.cjh.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.hashimotogumi.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.jyukukan.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://grandereverie.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hirohatakobo.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.muramatsu-k.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://s-wise.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.blue-one.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kumagaikenso.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kyoto-araki.jp
+  📋 フォームページ（自動検出）: https://www.kyoto-araki.jp/mail/index.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://mizuta-k.com
+  📋 フォームページ（自動検出）: https://kumagaikenso.jp/contact/
+  ✅ 入力完了: name, email, email_confirm, message, select, inquiry_type, privacy
+  📤 送信完了
+  ✅ 入力完了: name, furigana, phone, email, message
+
+==================================================
+🌐 http://www.shinwajutaku.jp
+  📤 送信完了
+
+==================================================
+🌐 http://www.yoneikensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.e-home-co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://classe-corporation.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.toclas.co.jp/membership/shop/detail
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://weston-h.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://www.toclas.co.jp/membership/shop/
+
+==================================================
+🌐 http://n-ko.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://classe-corporation.com/
+Call log:
+
+==================================================
+🌐 https://builder.kyototatemono.jp
+  ❌ エラー: page.goto: Navigation to "http://n-ko.jp/" is interrupted by another navigation 
+
+==================================================
+🌐 https://yamahidehome.co.jp
+  ❌ エラー: page.goto: Navigation to "https://builder.kyototatemono.jp/" is interrupted by a
+
+==================================================
+🌐 https://www.seiei-1997.co.jp
+  ❌ エラー: page.goto: Navigation to "https://yamahidehome.co.jp/" is interrupted by another
+
+==================================================
+🌐 https://www.taiyou-h.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.seiei-1997.co.jp/" is interrupted by anoth
+
+==================================================
+🌐 https://www.dairitsu.jp
+  ❌ エラー: page.goto: Navigation to "https://www.taiyou-h.co.jp/" is interrupted by another
+
+==================================================
+🌐 https://takakuwa-house.jp
+  ❌ エラー: page.goto: Navigation to "https://www.dairitsu.jp/" is interrupted by another na
+
+==================================================
+🌐 https://www.md-home.jp
+  ❌ エラー: page.goto: Navigation to "https://takakuwa-house.jp/" is interrupted by another 
+
+==================================================
+🌐 https://friendly-house.co.jp
+  📋 フォームページ（自動検出）: http://weston-h.jp/contact/FNO1/
+  ❌ エラー: page.goto: Navigation to "https://www.md-home.jp/" is interrupted by another nav
+
+==================================================
+🌐 http://tateishi-sekkei.co.jp
+  ❌ エラー: page.goto: Navigation to "http://tateishi-sekkei.co.jp/" is interrupted by anoth
+
+==================================================
+🌐 https://www.sai-jo.jp
+  ❌ エラー: page.goto: Navigation to "https://www.sai-jo.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://sankosangyo-web.co.jp
+  ❌ エラー: page.goto: Navigation to "https://friendly-house.co.jp/" is interrupted by anoth
+
+==================================================
+🌐 https://kenkyo.jp
+  ❌ エラー: page.goto: Navigation to "https://kenkyo.jp/" is interrupted by another navigati
+
+==================================================
+🌐 https://papamaru.toyama.jp
+  ❌ エラー: page.goto: Navigation to "https://papamaru.toyama.jp/" is interrupted by another
+
+==================================================
+🌐 https://www.yokokawagumi.co.jp
+  ❌ エラー: page.goto: Navigation to "https://sankosangyo-web.co.jp/" is interrupted by anot
+
+==================================================
+🌐 https://www.kyoto.zennichi.or.jp/search/index.php
+  ❌ エラー: page.goto: Navigation to "https://www.yokokawagumi.co.jp/" is interrupted by ano
+
+==================================================
+🌐 https://yamada-kenso.jp
+  ❌ エラー: page.goto: Navigation to "https://yamada-kenso.jp/" is interrupted by another na
+
+==================================================
+🌐 https://hokusin-kk.co.jp
+  ✅ 入力完了: name, furigana, phone, email, message
+  ❌ エラー: page.goto: Navigation to "https://www.kyoto.zennichi.or.jp/search/index.php" is 
+
+==================================================
+🌐 https://gar-den.jp/company
+  ❌ エラー: page.goto: Navigation to "https://hokusin-kk.co.jp/" is interrupted by another n
+
+==================================================
+🌐 https://smile-life.jp
+  ❌ エラー: page.goto: Navigation to "https://gar-den.jp/company" is interrupted by another 
+
+==================================================
+🌐 https://www.iyo-kentiku.co.jp
+  ❌ エラー: page.goto: Navigation to "https://smile-life.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://tateruya.jp/miyazaki/ranking-maker
+  ❌ エラー: page.goto: Navigation to "https://www.iyo-kentiku.co.jp/" is interrupted by anot
+
+==================================================
+🌐 https://www.brain-s.jp
+  ❌ エラー: page.goto: Navigation to "https://tateruya.jp/miyazaki/ranking-maker" is interru
+
+==================================================
+🌐 https://marutaka1.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.brain-s.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://www.smile-home1.co.jp
+  📨 確認画面から最終送信: 送信する
+  ❌ エラー: page.goto: Navigation to "https://marutaka1.co.jp/" is interrupted by another na
+
+==================================================
+🌐 https://www.skc-al.jp
+  ❌ エラー: page.goto: Navigation to "https://www.smile-home1.co.jp/" is interrupted by anot
+
+==================================================
+🌐 https://www.twinhome-kyoto.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.skc-al.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://raijyo.jp
+  📤 送信完了
+  ❌ エラー: page.goto: Navigation to "https://www.twinhome-kyoto.co.jp/" is interrupted by a
+
+==================================================
+🌐 https://yamanakashoji.co.jp
+  ❌ エラー: page.goto: Navigation to "https://raijyo.jp/" is interrupted by another navigati
+
+==================================================
+🌐 https://souan.ne.jp
+
+==================================================
+🌐 http://www.en-ken.co.jp
+  ❌ エラー: page.goto: Navigation to "https://souan.ne.jp/" is interrupted by another naviga
+
+==================================================
+🌐 https://pokohouse.jp
+  ❌ エラー: page.goto: Navigation to "https://yamanakashoji.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://shuuken.net
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ozaki-k.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.jbn-ishikawa.jp/members.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ai-koumuten.co.jp/exhibition/fukuchiyama
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.osakoh.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://arakikoumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.realhome-kyoto.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.osada-kensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://tamayakk.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kijimakoumuten.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://www.osada-kensetsu.co.jp/
+Call lo
+
+==================================================
+🌐 https://obatakei.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://www.kijimakoumuten.co.jp/
+Call lo
+
+==================================================
+🌐 https://www.ncn-se.co.jp/se/builderslist/detail/20250313094601
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://tamayakk.com/
+Call log:
+[2m  - n
+
+==================================================
+🌐 https://antol.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.ncn-se.co.jp/se/builderslist/detail/202503
+
+==================================================
+🌐 https://www.kurimoto-koumuten.jp/index.html
+  ❌ エラー: page.goto: Navigation to "https://antol.co.jp/" is interrupted by another naviga
+
+==================================================
+🌐 https://www.jahome.jp
+  ❌ エラー: page.goto: Navigation to "https://obatakei.co.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://i-daiku.jp
+  ❌ エラー: page.goto: Navigation to "https://www.kurimoto-koumuten.jp/index.html" is interr
+
+==================================================
+🌐 https://www.kgrfhiro.jp/pages/34
+  ❌ エラー: page.goto: Navigation to "https://www.jahome.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://yama-kou.jp
+  ❌ エラー: page.goto: Navigation to "https://www.kgrfhiro.jp/pages/34" is interrupted by an
+
+==================================================
+🌐 https://mitemite-openhouse.jp/kansai/builder/kosei
+  ❌ エラー: page.goto: Navigation to "https://i-daiku.jp/" is interrupted by another navigat
+
+==================================================
+🌐 https://www.ko-u.co.jp
+  ❌ エラー: page.goto: Navigation to "https://yama-kou.jp/" is interrupted by another naviga
+
+==================================================
+🌐 https://kurodahouse.jp
+  ❌ エラー: page.goto: Navigation to "https://www.ko-u.co.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://www.kokolab.jp
+  ❌ エラー: page.goto: Navigation to "https://mitemite-openhouse.jp/kansai/builder/kosei" is
+
+==================================================
+🌐 https://kosuga-inc.co.jp
+  ❌ エラー: page.goto: Navigation to "https://kosuga-inc.co.jp/" is interrupted by another n
+
+==================================================
+🌐 https://sanshin-e.co.jp
+  ❌ エラー: page.goto: Navigation to "https://kurodahouse.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://www.newhouse-newhouse.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.newhouse-newhouse.co.jp/" is interrupted b
+
+==================================================
+🌐 https://takumi-build.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.kokolab.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://www.sanko-shizuoka.co.jp
+  ❌ エラー: page.goto: Navigation to "https://sanshin-e.co.jp/" is interrupted by another na
+
+==================================================
+🌐 https://bso16146.bsj.jp
+  ❌ エラー: page.goto: Navigation to "https://bso16146.bsj.jp/" is interrupted by another na
+
+==================================================
+🌐 https://www.hashikoh.co.jp
+  ❌ エラー: page.goto: Navigation to "https://takumi-build.co.jp/" is interrupted by another
+
+==================================================
+🌐 https://www.kita-net.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.sanko-shizuoka.co.jp/" is interrupted by a
+
+==================================================
+🌐 https://diyhome.co.jp/company/outline
+  ❌ エラー: page.goto: Navigation to "https://www.hashikoh.co.jp/" is interrupted by another
+
+==================================================
+🌐 https://www.haru-kyoto.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://digital-construction.jp/column/2756
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.shinei-jyuutaku.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.d-homes.jp/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.application.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://riforma.shizuoka.jp/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://aikyo-jyutaku.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://saidakoumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://suehiro-k.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://sghousing.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.taiseichiken.co.jp/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.seiken-house.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.seiken-house.co.jp/" is interrupted by ano
+
+==================================================
+🌐 https://sozosya.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kento.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://integralgroup.jp/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://taiyokomuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.nohara-k.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.honda-koumuten.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.kousyou-d.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.dkgr.co.jp/daiei-pv/company/outline
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.rentlife.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://taisei-bld.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.eraten.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.sagamigumi.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://taiheikoumuten.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.forestyle-ryujin.jp/craftsmanship/builders/introduction/120
+  ❌ エラー: page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.forestyle-ryujin.jp/craftsm
+
+==================================================
+🌐 https://ishiyama-j.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.k-kiuchi.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.teradanet.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kigyo.city.kyoto.lg.jp/kyomachi/company/single/2425.php
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.koishi-group.jp/group/03.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.nakada-koumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.oono-fudousan.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.chikumakk.co.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://www.oono-fudousan.jp/
+Call log:
+
+
+==================================================
+🌐 https://countryhouse.ne.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://www.chikumakk.co.jp/
+Call log:
+[
+
+==================================================
+🌐 https://nagano.bess.jp
+  ❌ エラー: page.goto: net::ERR_NETWORK_CHANGED at https://www.nakada-koumuten.co.jp/
+Call l
+
+==================================================
+🌐 https://frontier1215.co.jp
+  ❌ エラー: page.goto: Navigation to "https://nagano.bess.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://www.koyama-mokuzai.com
+  ❌ エラー: page.goto: Navigation to "https://frontier1215.co.jp/" is interrupted by another
+
+==================================================
+🌐 https://www.miwa-kensetsu.jp
+  ❌ エラー: page.goto: Navigation to "https://www.koyama-mokuzai.com/" is interrupted by ano
+
+==================================================
+🌐 https://www.h-komuten.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.h-komuten.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://mar3.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.miwa-kensetsu.jp/" is interrupted by anoth
+
+==================================================
+🌐 https://metecs-arch.com
+  ❌ エラー: page.goto: Navigation to "https://mar3.co.jp/" is interrupted by another navigat
+
+==================================================
+🌐 https://kuniroku.co.jp
+  ❌ エラー: page.goto: Navigation to "https://kuniroku.co.jp/" is interrupted by another nav
+
+==================================================
+🌐 https://www.sankenkk.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.sankenkk.co.jp/" is interrupted by another
+
+==================================================
+🌐 https://inouekoumuten.co.jp
+  ❌ エラー: page.goto: Navigation to "https://metecs-arch.com/" is interrupted by another na
+
+==================================================
+🌐 https://livtec.jp/company
+  ❌ エラー: page.goto: Navigation to "https://inouekoumuten.co.jp/" is interrupted by anothe
+
+==================================================
+🌐 https://iida-kensetsu.com
+  ❌ エラー: page.goto: Navigation to "https://iida-kensetsu.com/" is interrupted by another 
+
+==================================================
+🌐 https://shintoh-kensetsu.co.jp
+  ❌ エラー: page.goto: Navigation to "https://livtec.jp/company" is interrupted by another n
+
+==================================================
+🌐 https://ys-home.co.jp
+  ❌ エラー: page.goto: Navigation to "https://shintoh-kensetsu.co.jp/" is interrupted by ano
+
+==================================================
+🌐 https://www.mori-juken.jp
+  📋 フォームページ（自動検出）: https://countryhouse.ne.jp/contents/contact_info
+  ❌ エラー: page.goto: Navigation to "https://ys-home.co.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://asahi-yume.jp
+  ❌ エラー: page.goto: Navigation to "https://asahi-yume.jp/" is interrupted by another navi
+
+==================================================
+🌐 https://www.sbs-mhc.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.mori-juken.jp/" is interrupted by another 
+
+==================================================
+🌐 https://www.joinus-home.jp
+  ❌ エラー: page.goto: Navigation to "https://www.joinus-home.jp/" is interrupted by another
+
+==================================================
+🌐 https://daichan.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.sbs-mhc.co.jp/" is interrupted by another 
+
+==================================================
+🌐 https://www.hamamatsu-bmf.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kimura-koumuten-kyoto.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://miyajimakk.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://fbirdhouse.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://keiji-go.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kouei-net.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ichikawakenchiku.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kobayasi-s.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.iwatakk.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.yamamotokensetu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://sakane.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.jyukatsukyo.or.jp/builderlist/page/4
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.mirai-koumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://4141sanki.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://wathome.watgroup.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.m-cd.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.sant.jp/default.asp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hapisumu.jp/company/82140
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.aisin-ad.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://houserossa.co.jp/articles/housemaker-worst
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://f-lente.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.uniho.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.seiko-const.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ms-as.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.arrgallery.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ncn-se.co.jp/se/builderslist/detail/20040617174742
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://okjk.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kip.ki-group.co.jp:443/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ieagent.jp/blog/eria/kyoto-kokyujutakugai-713179
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://daimasa.net
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kondo.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://touji-housing.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://soumiya.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.komatsu-kaihatsu.co.jp/business/house
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://t-tomita.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.atsumikensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.sanyo-kensetu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://tanida-pal.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://summerhome.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://architex.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kirin-g.jp/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.marushin-house.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kainuma.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hapisumu.jp/company/61084
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://asanokensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.tamazen.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.takatsuka-con.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://sinko-k.co.jp/company.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.brother-bre.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.kyoei-kensetsu.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://hiokikensetu.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 http://www.hiramatsu-j.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.tatsumi-home.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://housing.hirose-f.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://partnershop.takara-standard.co.jp/shop/3437
+  📋 フォームページ（自動検出）: https://housing.hirose-f.co.jp/inquiry/
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.sakai-kenchiku.co.jp
+  📋 フォームページ（自動検出）: https://forms.takara-standard.co.jp/webapp/form/22048_aqgb_12/index.do
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.onecareer.jp/companies/91422
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://gofe.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://yasue-koumuten.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://n-kyoto.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://jed-eco.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://oritokensetu.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.matsuura-group.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.el-fin.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.hagiwara.gifu.jp/harusho.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kyoto-np.co.jp/ud/tomatoclub_shops/5f76acd87765611817c00100
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.omura-sekkei.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://funs-life.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.syunei.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.pacifichome.jp/locations/p217
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.pokara.co.jp/agency/gifu/613
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.d-y.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ecohaus.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.tousin-t.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.hajimejyuutaku.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ondolife.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://gifu.bess.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.matsuhiko.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://koei-juken.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://daiwakoumuten.co.jp
+  📋 フォームページ（自動検出）: https://www.matsuhiko.co.jp/contact/
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ozaki-koumuten.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://dokonet.jp/top/shop/gifu/2869095
+  ✅ 入力完了: name, phone, email, email_confirm, message, select, inquiry_type, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://www.ai-koumuten.co.jp/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://taskdesu.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.nakagaki-koumuten.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.senbokuhome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://nomoto-kenchiku.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://chuo-tochi.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.housefreedom.co.jp/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://morimasa.jp
+  ⏱️ タイムアウト
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://pressance-jyuhan.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kawaikenchiku.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.seiwa-stss.jp/company/outline.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.inayoshi-arc.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.shikishima-j.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.yume-kobo.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://geo.8984.jp/house/outline/contents/code/detail/5950395
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.asuka-gp.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://yumesumika.jp/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://life.oricon.co.jp/rank-house-maker/prefecture/aichi.html
+  📋 フォームページ（自動検出）: https://life.oricon.co.jp/information/contactus.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.keihan-kiss.co.jp/house/contents/h-quality
+  🔗 ハブページ検出 → フォームリンクへ: https://cs.oricon.co.jp/contact/form/?form=license
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://reformnavi.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://fds.gr.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://okura.co.jp
+  ✅ 入力完了: name, company, phone, email, message, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://www.nakakei.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.nakashou-co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://housingcounter.jp/shop/itokoumuten/index.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.makotocorp.jp/outline/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://seiichikensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://toshokensetsu.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://suzuki-koumuten.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kansaisan.co.jp/comodo_casa/architects
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://one.andpad.jp/magazine/10004
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://yumesumika.jp
+  📋 フォームページ（自動検出）: https://yumesumika.jp/contact
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.meijyou.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.mihama-jutaku.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.pitahouse.co.jp
+  📋 フォームページ（自動検出）: https://www.pitahouse.co.jp/contact
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.nomura-k.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.eiwa-housing.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.yueg.co.jp
+  ✅ 入力完了: name, furigana, phone, email, message, inquiry_type, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://yamamoku.ne.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://nikkei-home.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kawai-koumuten.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://unihouse.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.suehiro-inc.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.sanyu-j-net.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.stylecompany.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.nl-showa.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.daisinkensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.miyama-g.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.tatsumi-gr.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.isejyutaku.co.jp
+  📋 フォームページ（自動検出）: tel:0120435551
+  ❌ エラー: page.goto: net::ERR_ABORTED at tel:0120435551
+Call log:
+[2m  - navigating to "t
+
+==================================================
+🌐 https://famityhome.co.jp
+  📋 フォームページ（自動検出）: https://www.tatsumi-gr.jp/contact
+  📋 フォームページ（自動検出）: https://famityhome.co.jp/inquiry/
+  ✅ 入力完了: name, furigana, phone, email, message, select, inquiry_type, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://www.horata.jp
+  📋 フォームページ（自動検出）: https://www.horata.jp/contact.html
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://daiku-nakagaki.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ahh.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://asahi-ko.co.jp
+  ✅ 入力完了: name, phone, email, message, select, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 http://www.sanwakoumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.taiyo-jutaku.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kanaeruhome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://asahigloval.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.h-create.co.jp/company
+  📋 フォームページ（自動検出）: https://asahigloval.co.jp/contact/form
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.fujihisa.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://re.sanco.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.build-m.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.house-craft.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kansai-iezukuri.kintetsu-re.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.mie-jsk.or.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.eslead-house.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://sunkushome.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.takamatsu-const.co.jp/profile/profile
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kiwacocoro.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.creajapan.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://yomotto.jp/2023/04/13/946032
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://86yonezawa.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.nakayoshi.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kanden-rd.co.jp/pdf/%E3%80%90%E3%83%97%E3%83%AC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9%E3%80%91%E9%96%A2%E9%9B%BB%E4%B8%8D%E5%8B%95%E7%94%A3%E6%B8%8B%E8%B0%B7%E3%83%93%E3%83%AB%E7%9D%80%E5%B7%A5%EF%BC%88HP%E6%8E%B2%E8%BC%89%E7%94%A8%EF%BC%89.pdf
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://shizensozainoie.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.e-mansion.co.jp/bbs/thread/626296
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kokorohome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kido-sangyo.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.mie-uij.jp/facility/detail/420
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.sakura-home.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://k-style-housing.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.advance-architect.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://xn--w8jvl3b6d9gz83xm5o0mc223e.jp/portal/supporter/mie/kousankensetsu
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://doordo.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://asahi.live-web.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://sakurafudousan.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ike-da.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ielove.co.jp/company/co-m91180
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://shimasho.jp/kigyo-guide/contents/det.php
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://sun-home12.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://forest-o.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.matsudahome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.heian-group.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.sankyohome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.eyefulhome-miematusaka.jp/eyefulhome
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ondo-seimu.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.yamaguchi-co.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.lifedesign-produce.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://excellent-home.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://andreform.jp/company/1631
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.safety1-shoei.jp/ci/profile.htm
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ietateyo.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.nakazatokoumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://nankaifd.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ohno-cc.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://stmlife.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://funatani-hd.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kyoueihome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://pomarchi.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://morimoto-kousan.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.daitoukoumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://i-craft.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kizna-house.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://sunlife-h.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.emono.jp/detail-7604.html
+  ⏱️ タイムアウト
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.plus--one.co.jp/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://molink.jp/company/317
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://y-scorporation.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hapisumu.jp/company/46006/interview
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://bf-daiichi.jp/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.kinseido.co.jp/company
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://molink.jp/company/312
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.itokoumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hikari-jk.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://seko-j.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ielove.co.jp/company/co-m76216
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.lost-found.jp/members_category/m-tokai-mie
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hamaguri.co.jp/house
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://isoda-kensetsu.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ueno-house.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://utiken.com
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://ishinhome.co.jp/shop/yokkaichi
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.expert-kondo.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://solba.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://cproduce.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://zip-com.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.shirakawa-kensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://daido-kensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.shinwa-koumuten.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://depro-home.jp
+  ⏱️ タイムアウト
+
+==================================================
+✅ 完了: 14/600件 送信成功

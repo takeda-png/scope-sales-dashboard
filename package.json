@@ -1,0 +1,16 @@
+{
+  "name": "form-automation",
+  "version": "1.0.0",
+  "description": "```bash\r pip install -r requirements.txt\r ```",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}

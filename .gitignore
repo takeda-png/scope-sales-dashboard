@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Backup CSV files (large)
+companies_backup_*.csv
+companies.csv.bak*
+*.bak
+*.bak_*
+
+# Log files
+pipeline_log.txt
+collect_fast_log*.txt
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets
+.env

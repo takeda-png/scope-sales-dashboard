@@ -1,0 +1,827 @@
+📊 pending: 5639件
+🚀 今回の送信: 200件
+
+
+==================================================
+🌐 https://www.logoshome.jp
+  📋 フォームページ（自動検出）: https://www.logoshome.jp/contact/
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.tsuchiyahome.jp
+  📋 フォームページ（自動検出）: https://www.tsuchiyahome.jp/contact/
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.johnsonhome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.hoei999.co.jp
+  📋 フォームページ（自動検出）: https://www.hoei999.co.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://www.architec-net.jp
+  📋 フォームページ（自動検出）: https://www.architec-net.jp/customhouse_contact/
+  🔗 ハブページ検出 → フォームリンクへ: https://www.architec-net.jp/reform/
+  ✅ 入力完了: 
+  ⚠️ 送信ボタンが見つかりません（手動確認が必要）
+
+==================================================
+🌐 https://hugkumi-life.jp/detail/index.php
+  📋 フォームページ（自動検出）: https://lin.ee/l8EacEiy
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://jinde.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.cosmokensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kawamurahome.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.b-mall.ne.jp/CompanyDetail-DZbqCQjrHUix.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.k-arthome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.1480.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.takkencp.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.fujiki-kensetsu.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.goodfield.ne.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hugkumi-life.jp/detail/index.php
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://iewill.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.iwakura-home.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hokuo.homelife.co.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://hugkumi-life.jp/detail/index.php
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://iezoom.jp/company/company-2793.html
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://jukenhouse.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.yamashitahome.co.jp/contact
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://i-kenchikukoubou.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kj-ie.co.jp/author/20240100050
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.iekeikaku.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.homekikakucenter.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.lixil-reformshop.jp/shop/SP00001048
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://taihei-home.jp/company
+  📋 フォームページ（自動検出）: https://taihei-home.jp/contact
+  ✅ 入力完了: name, phone, email, email_confirm, message, select, inquiry_type, privacy, privacy_custom
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://homesouken.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.atelierzero.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.tk2430.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://home-kikaku.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://sudo-cnst.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.skyhouse.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.uchiike-home.co.jp
+  📋 フォームページ（自動検出）: https://www.uchiike-home.co.jp/contact/
+  ✅ 入力完了: name, furigana, phone, email, message, select, privacy, privacy_custom
+  📤 送信完了
+
+==================================================
+🌐 https://hugkumi-life.jp/detail/index.php
+  📋 フォームページ（自動検出）: https://lin.ee/l8EacEiy
+  ❌ エラー: page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://lin.ee/l8EacEiy
+Call log:
+[
+
+==================================================
+🌐 https://www.san-aijisyo.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.san-aijisyo.co.jp/" is interrupted by anot
+
+==================================================
+🌐 https://www.satto310.co.jp
+  ❌ エラー: page.goto: Navigation to "https://www.satto310.co.jp/" is interrupted by another
+
+==================================================
+🌐 https://www.kyoueihouse.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.itoken946.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.archi21.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.liner.jp/spot/217
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.home-takken.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.ielcome.jp/hokkaido/watanabe/profile
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://sugakou1968.co.jp/newly
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://hugkumi-life.jp/detail/index.php
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://maida.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.joyfulhome.jp/about
+  ⏱️ タイムアウト
+
+==================================================
+🌐 http://www.tanaka-group.jp
+  ❌ お問い合わせページが見つかりません
+
+==================================================
+🌐 https://www.ivyhome-co.jp
+  📋 フォームページ（自動検出）: https://www.ivyhome-co.jp/contact
+  ✅ 入力完了: phone, email, email_confirm, message, privacy
+  📨 確認画面から最終送信: 送信する
+  📤 送信完了
+
+==================================================
+🌐 https://www.kk35.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.housing-takahashi.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kenseihome.co.jp
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://kj-ie.co.jp/author/20230100190
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://www.toyohouse.jp
+  📋 フォームページ（自動検出）: https://www.toyohouse.jp/contact/
+  ⏱️ タイムアウト
+
+==================================================
+🌐 https://auka.jp/media/brand/94772534749493f442a7ed5600716f52
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.knp1821.co.jp/company/business
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://iezoom.jp/company/company-1907.html
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://hugkumi-life.jp/detail/index.php
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.sumaino-kuwazawa.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kent-inc.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.builder-net.jp/builder
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://iezoom.jp/company/company-4065.html
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://salesnow.jp/db/companies/jcbcxkyt9f23edg4v
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://ikesugi.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 http://www.sato-home.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.sanoh-home.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://mirai-home.ne.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kyoudo-arc.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://hugkumi-life.jp/detail/index.php
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://avele.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://housingkobayashi.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://ineshome.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kohya.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.fas-21.jp/fc/company
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://beus.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://sapporo.bess.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.hoshiya.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://hokkaisoken.com
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.hokushin-k.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.earnesthome.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://usamikensetu.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.est-h.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://okamoto-kensetsu.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kanna-design.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://greethome.com
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://kokudohome.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://kotobuki-bk.jeez.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.sumairu-labo.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://e-senmon.jp/outline
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://hugkumi-life.jp/detail/index.php
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.d-shinkou.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://nix-3c.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://bern-t.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://living-work.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://riyodehome.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.woody-craft.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://hugkumi-life.jp/detail/index.php
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://iiyeah-tateru.jp/shops/5000
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.hophouse.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://maida.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://value-home.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 http://www.shinokawahome.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.dotohouse.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://kkooi.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kawakamigiken.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://school.stephouse.jp/partnership/p39737
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://luxe-home.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.assisthome.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 http://www.fukasaka.jp/company/outline.htm
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.shintaku.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://suzuki-koumuten.jp/pages/32
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://i-llhome.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.izenhome.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.crest-home.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://saijosangyo.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.takashima-house.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://hashimotokensetu.com
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kokokara-house.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.openwork.jp/company.php
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://maida.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://kotobuki-he.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://takeguchigumi.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.lime-h.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://fujiwa.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 http://www.hiranaka.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://home-tech.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.misawa-koumuten.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.i-homesystem.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.ncn-se.co.jp/se/builderslist/detail/20180607114200
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.komori-home.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://konkensetu.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.starr-wedge.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.tgumi.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://imai-koumuten.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.hokujyukeikaku.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.puerda.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.horikenlabo.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://ylh.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.rocky-house.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://isoda-kensetsu.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.uchiike-home.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://woodlife2x4.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.ameba.jp/profile/general/arckentikukoubou
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.sdc-project.jp/hokkaido/details/2072
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 http://www.mytokachi.jp/ozawakensetsu
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://kimura-c.co.jp/overview
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://kei-ai.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://s-koubou.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.shintaku-h.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://maida.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://molink.jp/company/1076
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 http://tokai-k.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://tobex.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.nakai-k.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 http://www.nikken-net.co.jp/profile/index.html
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.hi-ko.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 http://www.hiraguchi.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.hokodate-home.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://maida.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.maruwa-k.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.miraye.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://taka01.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.yamamotokengyo.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://portal.renovation.or.jp/app/member/045-308-9155
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.wish-home.co.jp/company
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.hatalike.jp/viewjob/535149bfe3104b8b
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://maida.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.ai-koumuten.co.jp/exhibition/sapporo-kita
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://naitou-con.co.jp/company/about
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.fujiikohmuten.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://ie-selecthome.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.takuyou.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 http://tuchiya-kk.main.jp/index.html
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://toti-design.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://fukushima-km.co.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://matsuurakensetsu.com
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.8shiro.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.denpota.jp/smart-showroom/15060
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://landcapital.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+🌐 https://www.kk35.jp
+  ❌ エラー: page.goto: Target page, context or browser has been closed
+
+==================================================
+✅ 完了: 4/200件 送信成功
